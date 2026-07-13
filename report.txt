@@ -3,33 +3,29 @@ WAYNE COUNTY OFF-GRID WEATHER REPORT
 ==========================================================
 
 Forecast Issued : 2026-07-13 03:47 AM EDT
-Report Generated: 2026-07-13 10:55 AM EDT
+Report Generated: 2026-07-13 01:03 PM EDT
 
 SUMMARY
 -------
 Sunny, with a high near 89.
 No active alerts.
-Next hazard: Heat index will be high.
+Heat index up to 96°F.
 
 CURRENT CONDITIONS
 ------------------
-77°F  Sunny
-Wind: Calm
+85°F  Sunny
+Wind: NE 2 mph
 
 ACTIVE ALERTS
 -------------
 None
 
-NEXT HAZARD
------------
-Heat index will be high.
-
 FORECAST
 --------
 
-Today
+This Afternoon
 
-Sunny, with a high near 89. North wind 0 to 3 mph.
+Sunny, with a high near 89. North wind around 3 mph.
 
 Tonight
 
