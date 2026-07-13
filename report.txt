@@ -1,21 +1,17 @@
-==================================================
-WAYNE COUNTY, OHIO WEATHER REPORT
-
-Updated: 2026-07-12 08:44 PM EDT
-
-CURRENT CONDITIONS
-(Placeholder)
+WAYNE COUNTY WEATHER REPORT
+Updated: 2026-07-12 08:47 PM EDT
 
 FORECAST
-(Placeholder)
 
-ALERTS
-(Placeholder)
+Tonight
+Mostly clear, with a low around 63. Northeast wind 2 to 7 mph.
 
-METAR
-(Placeholder)
+Monday
+Sunny, with a high near 87. East wind 1 to 5 mph.
 
-SPC
-(Placeholder)
+Monday Night
+Mostly clear, with a low around 65. East wind 1 to 5 mph.
 
-==================================================
+Tuesday
+Sunny, with a high near 89. Southwest wind around 5 mph.
+
