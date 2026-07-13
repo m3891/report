@@ -78,22 +78,22 @@ report.append(
 report.append("")
 
 # Summary
-report.append("SUMMARY")
-report.append("-------")
-report.append(
-    f"{current['temperature']}°{current['temperatureUnit']}  {current['shortForecast']}"
-)
+# Summary
 periods = forecast["properties"]["periods"]
 today = periods[0]
 
-report.append(
-    f"{current['temperature']}°{current['temperatureUnit']}  {current['shortForecast']}"
-)
-report.append(today["detailedForecast"].split(".")[0] + ".")
-report.append("")
+report.append("SUMMARY")
+report.append("-------")
 
-today = forecast["properties"]["periods"][0]
-report.append(today["detailedForecast"].split(".")[0] + ".")
+summary = today["detailedForecast"].split(".")[0].strip() + "."
+report.append(summary)
+
+if alerts["features"]:
+    report.append("Active alerts in effect.")
+else:
+    report.append("No active alerts.")
+
+report.append(f"Next hazard: {hazard_summary(periods, alerts)}")
 report.append("")
 
 # Current
