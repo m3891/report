@@ -9,46 +9,35 @@ LON = -81.76
 TZ = ZoneInfo("America/New_York")
 
 HEADERS = {
-    "User-Agent": "WinlinkCustomReport/2.4"
+    "User-Agent": "WinlinkCustomReport/2.5"
 }
 
 
-def fetch(url):
+def fetch_json(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())
 
 
 def hazard_summary(periods, alerts):
-    """Return the highest-priority hazard in a concise format."""
-
-    # Active alerts always override everything else
     if alerts["features"]:
         return alerts["features"][0]["properties"]["headline"]
 
     text = " ".join(p["detailedForecast"] for p in periods[:4])
     lower = text.lower()
 
-    # Heat Index
     m = re.search(r"Heat index values? as high as (\d+)", text, re.IGNORECASE)
     if m:
         return f"Heat index up to {m.group(1)}°F."
 
-    # Wind gusts
     m = re.search(r"gusts? as high as (\d+)\s*mph", text, re.IGNORECASE)
     if m:
         return f"Wind gusts up to {m.group(1)} mph."
 
-    # Rainfall amounts
-    m = re.search(
-        r"between ([0-9.]+) and ([0-9.]+) inches",
-        text,
-        re.IGNORECASE,
-    )
+    m = re.search(r"between ([0-9.]+) and ([0-9.]+) inches", text, re.IGNORECASE)
     if m:
         return f"Heavy rain {m.group(1)}-{m.group(2)} inches."
 
-    # General hazards
     if "severe thunderstorm" in lower:
         return "Severe thunderstorms possible."
 
@@ -77,11 +66,16 @@ def hazard_summary(periods, alerts):
 # Download Weather
 # --------------------------------------------------------
 
-points = fetch(f"https://api.weather.gov/points/{LAT},{LON}")
+points = fetch_json(f"https://api.weather.gov/points/{LAT},{LON}")
 
-forecast = fetch(points["properties"]["forecast"])
-hourly = fetch(points["properties"]["forecastHourly"])
-alerts = fetch(f"https://api.weather.gov/alerts/active?point={LAT},{LON}")
+forecast = fetch_json(points["properties"]["forecast"])
+hourly = fetch_json(points["properties"]["forecastHourly"])
+alerts = fetch_json(f"https://api.weather.gov/alerts/active?point={LAT},{LON}")
+
+# NOAA Sunrise/Sunset
+sun = fetch_json(
+    f"https://api.sunrise-sunset.org/json?lat={LAT}&lng={LON}&formatted=0"
+)
 
 generated = datetime.now(TZ)
 
@@ -90,7 +84,25 @@ periods = forecast["properties"]["periods"]
 today = periods[0]
 
 # --------------------------------------------------------
-# Build Today's Forecast
+# Sunrise / Sunset
+# --------------------------------------------------------
+
+sunrise = (
+    datetime.fromisoformat(sun["results"]["sunrise"])
+    .astimezone(TZ)
+    .strftime("%I:%M %p")
+    .lstrip("0")
+)
+
+sunset = (
+    datetime.fromisoformat(sun["results"]["sunset"])
+    .astimezone(TZ)
+    .strftime("%I:%M %p")
+    .lstrip("0")
+)
+
+# --------------------------------------------------------
+# Today's Forecast
 # --------------------------------------------------------
 
 forecast_line = today["shortForecast"]
@@ -111,17 +123,15 @@ else:
     forecast_line += f" Wind {wind_speed}."
 
 # --------------------------------------------------------
-# Build Report
+# Report
 # --------------------------------------------------------
 
 report = []
 
 report.append("WINLINK CUSTOM REPORT")
 report.append("---------------------")
-report.append("")
-report.append(
-    f"Updated: {generated.strftime('%b %d %I:%M %p %Z')}"
-)
+report.append(f"Updated : {generated.strftime('%b %d %I:%M %p %Z')}")
+report.append(f"Sunrise: {sunrise}   Sunset: {sunset}")
 report.append("")
 
 report.append(
@@ -130,12 +140,13 @@ report.append(
 )
 
 if alerts["features"]:
-    report.append("ALERTS  : Active")
+    report.append(
+        f"ALERTS  : {alerts['features'][0]['properties']['headline']}"
+    )
 else:
     report.append("ALERTS  : None")
 
 report.append(f"HAZARDS : {hazard_summary(periods, alerts)}")
-
 report.append(f"FORECAST: {forecast_line}")
 
 with open("report.txt", "w") as f:
