@@ -2,28 +2,28 @@
 REPORT
 ==========================================================
 
-Forecast Issued : 2026-07-12 04:47 PM EDT
-Report Generated: 2026-07-13 12:29 AM EDT
+Forecast Issued : 2026-07-13 03:47 AM EDT
+Report Generated: 2026-07-13 04:16 AM EDT
 
 CURRENT CONDITIONS
 ------------------
-68°F  Mostly Clear
-Wind: NE 3 mph
+65°F  Mostly Clear
+Wind: NE 1 mph
 
 FORECAST
 --------
 
 Overnight
-Clear, with a low around 63. Northeast wind around 3 mph.
+Mostly clear, with a low around 63. Northeast wind around 1 mph.
 
 Monday
-Sunny, with a high near 87. East wind 1 to 5 mph.
+Sunny, with a high near 89. North wind 0 to 3 mph.
 
 Monday Night
-Mostly clear, with a low around 65. East wind 1 to 5 mph.
+Mostly clear, with a low around 66. Northwest wind 0 to 7 mph.
 
 Tuesday
-Sunny, with a high near 89. Southwest wind around 5 mph.
+Sunny, with a high near 92. Heat index values as high as 96. West wind 2 to 6 mph.
 
 ALERTS
 ------
