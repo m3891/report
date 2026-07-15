@@ -1,14 +1,14 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Jul 15 01:06 PM EDT
+Updated : Jul 15 04:51 PM EDT
 Sunrise: 6:07 AM   Sunset: 8:59 PM
 
 WEATHER CONDITIONS
 ------------------
-CURRENT : 91°F, Sunny
-ALERTS  : Heat Advisory until 4:00 PM
+CURRENT : 93°F, Sunny
+ALERTS  : Heat Advisory until 8:00 PM
 HAZARDS : See ALERTS.
-FORECAST: Sunny. High 94°F. Wind W 9 mph.
+FORECAST: Sunny. High 94°F. Wind W 8 mph.
 
 HF CONDITIONS
 -------------
