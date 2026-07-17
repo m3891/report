@@ -1,20 +1,20 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Jul 17 05:48 AM EDT
+Updated : Jul 17 09:07 AM EDT
 Sunrise: 6:08 AM   Sunset: 8:57 PM
 
 WEATHER CONDITIONS
 ------------------
-CURRENT : 62°F, Smoke
+CURRENT : 66°F, Smoke
 ALERTS  : Air Quality Alert until 11:45 PM
 HAZARDS : See ALERTS.
-FORECAST: Smoke. Low 62°F. Wind E 1 mph.
+FORECAST: Smoke. High 88°F. Wind S 1 to 5 mph.
 
 HF CONDITIONS
 -------------
 SFI     : 101
-K-INDEX : 0
-80/40   : Day Good | Night Good
+K-INDEX : 1
+80/40   : Day Fair | Night Good
 30/20   : Day Good | Night Good
 17/15   : Day Fair | Night Fair
 12/10   : Day Poor | Night Poor
