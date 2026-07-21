@@ -182,7 +182,7 @@ report.append(f"Updated : {generated.strftime('%b %d %I:%M %p %Z')}")
 report.append(f"Sunrise: {sunrise}   Sunset: {sunset}")
 report.append("")
 
-report.append("WEATHER CONDITIONS")
+report.append("WAYNE CO. WEATHER")
 report.append("------------------")
 
 report.append(
