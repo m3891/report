@@ -62,7 +62,7 @@ def hazard_summary(periods, alerts):
 
     m = re.search(r"Heat index values? as high as (\d+)", text, re.IGNORECASE)
     if m:
-        return f"Heat index up to {m.group(1)}°F."
+        return f"Heat index up to {m.group(1)}F."
 
     m = re.search(r"gusts? as high as (\d+)\s*mph", text, re.IGNORECASE)
     if m:
@@ -156,9 +156,9 @@ sunset = (
 forecast_line = today["shortForecast"]
 
 if today["isDaytime"]:
-    forecast_line += f". High {today['temperature']}°F."
+    forecast_line += f". High {today['temperature']}F."
 else:
-    forecast_line += f". Low {today['temperature']}°F."
+    forecast_line += f". Low {today['temperature']}F."
 
 wind_dir = today["windDirection"].strip()
 wind_speed = today["windSpeed"].strip()
@@ -186,7 +186,7 @@ report.append("WEATHER CONDITIONS")
 report.append("------------------")
 
 report.append(
-    f"CURRENT : {current['temperature']}°{current['temperatureUnit']}, "
+    f"CURRENT : {current['temperature']}F, "
     f"{current['shortForecast']}"
 )
 
