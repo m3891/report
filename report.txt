@@ -1,20 +1,20 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Jul 20 05:02 PM EDT
-Sunrise: 6:11 AM   Sunset: 8:55 PM
+Updated : Jul 20 09:50 PM EDT
+Sunrise: 6:12 AM   Sunset: 8:54 PM
 
 WEATHER CONDITIONS
 ------------------
-CURRENT : 80°F, Patchy Smoke
+CURRENT : 72°F, Patchy Smoke
 ALERTS  : None
 HAZARDS : Wind gusts up to 29 mph.
-FORECAST: Patchy Smoke. High 81°F. Wind SW 5 mph.
+FORECAST: Patchy Smoke. Low 66°F. Wind S 2 to 8 mph.
 
 HF CONDITIONS
 -------------
-SFI     : 119
-K-INDEX : 0
-80/40   : Day Good | Night Good
+SFI     : 137
+K-INDEX : 1
+80/40   : Day Fair | Night Good
 30/20   : Day Good | Night Good
-17/15   : Day Fair | Night Fair
-12/10   : Day Poor | Night Poor
+17/15   : Day Good | Night Good
+12/10   : Day Fair | Night Poor
