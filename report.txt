@@ -1,14 +1,14 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Jul 21 06:16 AM EDT
+Updated : Jul 21 09:05 AM EDT
 Sunrise: 6:12 AM   Sunset: 8:54 PM
 
 WEATHER CONDITIONS
 ------------------
-CURRENT : 68°F, Slight Chance Rain Showers
+CURRENT : 70F, Chance Showers And Thunderstorms
 ALERTS  : None
 HAZARDS : Wind gusts up to 30 mph.
-FORECAST: Chance Showers And Thunderstorms then Showers And Thunderstorms. High 81°F. Wind SW 9 to 17 mph.
+FORECAST: Chance Showers And Thunderstorms then Showers And Thunderstorms. High 81F. Wind SW 12 to 17 mph.
 
 HF CONDITIONS
 -------------
