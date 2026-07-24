@@ -1,20 +1,20 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Jul 24 02:19 AM EDT
+Updated : Jul 24 06:08 AM EDT
 Sunrise: 6:14 AM   Sunset: 8:52 PM
 
 WAYNE CO. WEATHER
 ------------------
-CURRENT : 56F, Mostly Clear
+CURRENT : 53F, Mostly Sunny
 ALERTS  : None
-HAZARDS : None
-FORECAST: Partly Cloudy. Low 52F. Wind NE 2 mph.
+HAZARDS : Fog possible.
+FORECAST: Partly Sunny. High 78F. Wind E 6 mph.
 
 HF CONDITIONS
 -------------
 SFI     : 148
-K-INDEX : 4
-80/40   : Day Poor | Night Fair
-30/20   : Day Fair | Night Fair
-17/15   : Day Fair | Night Fair
+K-INDEX : 1
+80/40   : Day Fair | Night Good
+30/20   : Day Good | Night Good
+17/15   : Day Good | Night Good
 12/10   : Day Fair | Night Poor
