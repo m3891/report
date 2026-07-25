@@ -1,44 +1,35 @@
+import json
 import re
 import urllib.request
-from bs4 import BeautifulSoup
 
-URL = "https://t.me/s/S2undergroundWire"
+URL = "https://tg.me/api/telegram/messages/S2undergroundWire?limit=5"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "WinlinkWireFetcher/1.0"
 }
 
-req = urllib.request.Request(URL, headers=HEADERS)
 
-with urllib.request.urlopen(req, timeout=30) as r:
-    html = r.read()
+def fetch_json(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read())
 
-soup = BeautifulSoup(html, "html.parser")
 
-# Find all visible Telegram messages
-messages = soup.select("div.tgme_widget_message_wrap")
-
-if not messages:
-    raise Exception("No Telegram messages found.")
+data = fetch_json(URL)
 
 wire = None
 title = None
 
-for msg in messages:
-    text_node = msg.select_one(".tgme_widget_message_text")
+for msg in data["messages"]:
 
-    if text_node is None:
-        continue
-
-    text = text_node.get_text("\n", strip=True)
+    text = msg.get("message", "")
 
     if "//The Wire//" not in text:
         continue
 
     m = re.search(
-        r"The Wire\s*[-–]\s*([A-Za-z]+\s+\d{1,2},\s+\d{4})",
+        r"//The Wire//\s*\d+Z\s*([A-Za-z]+\s+\d{1,2},\s+\d{4})//",
         text,
-        re.IGNORECASE,
     )
 
     if m:
@@ -46,26 +37,19 @@ for msg in messages:
     else:
         title = "The Wire"
 
-    start = text.find("//The Wire//")
     end = text.find("//END REPORT//")
 
-    if start == -1:
-        continue
-
     if end != -1:
-        text = text[start:end + len("//END REPORT//")]
-    else:
-        text = text[start:]
+        text = text[: end + len("//END REPORT//")]
 
     wire = text
     break
 
 if wire is None:
-    raise Exception("Latest Wire report not found.")
+    raise Exception("No Wire report found.")
 
-# Clean whitespace
-wire = re.sub(r"\n{3,}", "\n\n", wire)
 wire = wire.replace("\u00A0", " ")
+wire = re.sub(r"\n{3,}", "\n\n", wire)
 
 with open("wire.txt", "w", encoding="utf-8") as f:
     f.write(title + "\n")
