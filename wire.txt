@@ -1,0 +1,9 @@
+The Wire - November 7, 2025 - S2 Underground GhostNotes - Obsidian Publish
+window.siteInfo={"uid":"36dbce946d96b0d624ab0a49432efd3e","host":"publish-01.obsidian.md","status":"active","slug":"s2underground","redirect":null,"customurl":null};
+(function(){
+	let f = u=>u&&fetch(u,{credentials: "include"});
+	window.preloadOptions=f("https://publish-01.obsidian.md/options/36dbce946d96b0d624ab0a49432efd3e");
+	window.preloadCache=f("https://publish-01.obsidian.md/cache/36dbce946d96b0d624ab0a49432efd3e");
+	window.preloadPage=f("https://publish-01.obsidian.md/access/36dbce946d96b0d624ab0a49432efd3e/S2%20Underground%20PUBLISH/02%20Wire%20Reports/Wire%20Archive/2025/11%20-%20November%202025/The%20Wire%20-%20November%207%2C%202025.md");
+})();
+(function(){let t=localStorage.getItem('site-theme'),cl=document.body.classList;if(t&&t!=='dark') {cl.remove('theme-dark');cl.add('theme-'+t)}})();
