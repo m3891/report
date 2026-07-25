@@ -14,24 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install beautifulsoup4
+      - run: pip install beautifulsoup4
 
-      - name: Build Wire
-        run: python build_wire.py
+      - run: python build_wire.py
 
-      - name: Commit wire
+      - name: Commit updated report
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add wire.txt
-          git diff --cached --quiet || git commit -m "Update wire"
+          git diff --cached --quiet || git commit -m "Update Wire"
           git push
