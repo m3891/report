@@ -1,63 +1,27 @@
 import urllib.request
-import xml.etree.ElementTree as ET
-import re
+from bs4 import BeautifulSoup
 
 HEADERS = {
     "User-Agent": "WinlinkWireFetcher/1.0"
 }
 
-RSS_URL = (
-    "https://publish.obsidian.md/"
-    "s2underground/"
-    "rss.xml"
-)
+URL = "https://t.me/s/S2undergroundWire"
 
+req = urllib.request.Request(URL, headers=HEADERS)
 
-def fetch(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+with urllib.request.urlopen(req, timeout=30) as r:
+    html = r.read()
 
+soup = BeautifulSoup(html, "html.parser")
 
-# --------------------------------------------------------
-# Read RSS feed
-# --------------------------------------------------------
+text = soup.get_text("\n")
 
-rss = ET.fromstring(fetch(RSS_URL))
+start = text.find("//The Wire//")
 
-channel = rss.find("channel")
+if start == -1:
+    raise Exception("Latest Wire not found.")
 
-wire_url = None
-
-for item in channel.findall("item"):
-    title = item.findtext("title", "")
-
-    if title.startswith("The Wire"):
-        wire_url = item.findtext("link")
-        break
-
-if wire_url is None:
-    raise Exception("No Wire report found in RSS feed.")
-
-print(f"Latest report: {wire_url}")
-
-# --------------------------------------------------------
-# Download report
-# --------------------------------------------------------
-
-html = fetch(wire_url).decode("utf-8")
-
-# Remove HTML tags
-text = re.sub(r"<[^>]+>", "", html)
-
-# Compress blank lines
-text = re.sub(r"\n\s*\n+", "\n\n", text)
-
-# Trim report
-start = text.find("The Wire")
-
-if start != -1:
-    text = text[start:]
+text = text[start:]
 
 end = text.find("//END REPORT//")
 
@@ -65,6 +29,6 @@ if end != -1:
     text = text[:end + len("//END REPORT//")]
 
 with open("wire.txt", "w", encoding="utf-8") as f:
-    f.write(text)
+    f.write(text.strip())
 
-print("Updated wire.txt")
+print("wire.txt updated.")
