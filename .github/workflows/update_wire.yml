@@ -24,12 +24,12 @@ jobs:
       - name: Run script
         run: python build_wire.py
 
-      - name: Commit changes
+      - name: Commit files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add wire.txt
+          git add *.txt *.html
 
           git diff --cached --quiet || git commit -m "Update Wire"
 
