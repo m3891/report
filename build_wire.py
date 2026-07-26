@@ -1,7 +1,7 @@
 import urllib.request
 import urllib.error
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 
 HEADERS = {
     "User-Agent": "WireFetcher/1.0"
@@ -26,7 +26,8 @@ def fetch(url):
         return None
 
 
-today = datetime.utcnow().date()
+
+today = datetime.now(UTC).date()
 
 html = None
 found_url = None
@@ -38,10 +39,7 @@ for i in range(10):
     month_name = MONTHS[d.month - 1]
     month_folder = f"{month_name}+{d.year}"
 
-    page = (
-        f"The+Wire+-+{month_name}+"
-        f"{d.day}%2C+{d.year}"
-    )
+    page = f"The+Wire+-+{month_name}+{d.day}%2C+{d.year}"
 
     url = (
         "https://publish.obsidian.md/"
@@ -54,19 +52,26 @@ for i in range(10):
 
     print(f"Trying {url}")
 
-    html = fetch(url)
+    candidate = fetch(url)
 
-if html:
-    found_url = url
+    if candidate is None:
+        continue
 
+    # Save the downloaded page for debugging
     with open("debug.html", "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(candidate)
+        
+    print("Downloaded page:", url)
 
-    break
-
+    # Don't stop unless this page actually contains a Wire report
+    if "//The Wire//" in candidate and "//END REPORT//" in candidate:
+        html = candidate
+        found_url = url
+        break
 
 if html is None:
-    raise RuntimeError("Unable to locate a Wire report from the last 10 days.")
+    print("No Wire report found in the last 10 days.")
+    exit(1)
 
 
 # ----------------------------------------------------
