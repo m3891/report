@@ -56,9 +56,13 @@ for i in range(10):
 
     html = fetch(url)
 
-    if html:
-        found_url = url
-        break
+if html:
+    found_url = url
+
+    with open("debug.html", "w", encoding="utf-8") as f:
+        f.write(html)
+
+    break
 
 
 if html is None:
