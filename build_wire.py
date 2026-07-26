@@ -71,7 +71,8 @@ for i in range(10):
 
 if html is None:
     print("No Wire report found in the last 10 days.")
-    exit(1)
+    html = ""
+    found_url = "None"
 
 
 # ----------------------------------------------------
@@ -102,7 +103,11 @@ start = text.find("//The Wire//")
 end = text.find("//END REPORT//")
 
 if start == -1 or end == -1:
-    raise RuntimeError("Found page but could not locate report markers.")
+    with open("wire.txt", "w", encoding="utf-8") as f:
+        f.write("No report markers found.\n")
+        f.write(f"Last URL checked:\n{found_url}\n")
+    print("Report markers not found.")
+    exit(0)
 
 report = text[start:end + len("//END REPORT//")]
 
