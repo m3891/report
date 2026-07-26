@@ -1,59 +1,111 @@
-import json
-import re
 import urllib.request
-
-URL = "https://tg.me/api/telegram/messages/S2undergroundWire?limit=5"
+import urllib.error
+import re
+from datetime import datetime, timedelta
 
 HEADERS = {
-    "User-Agent": "WinlinkWireFetcher/1.0"
+    "User-Agent": "WireFetcher/1.0"
 }
 
+MONTHS = [
+    "January", "February", "March", "April",
+    "May", "June", "July", "August",
+    "September", "October", "November", "December"
+]
 
-def fetch_json(url):
+
+def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read())
+
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.read().decode("utf-8", errors="ignore")
+    except urllib.error.HTTPError:
+        return None
+    except Exception:
+        return None
 
 
-data = fetch_json(URL)
+today = datetime.utcnow().date()
 
-wire = None
-title = None
+html = None
+found_url = None
 
-for msg in data["messages"]:
+for i in range(10):
 
-    text = msg.get("message", "")
+    d = today - timedelta(days=i)
 
-    if "//The Wire//" not in text:
-        continue
+    month_name = MONTHS[d.month - 1]
+    month_folder = f"{month_name}+{d.year}"
 
-    m = re.search(
-        r"//The Wire//\s*\d+Z\s*([A-Za-z]+\s+\d{1,2},\s+\d{4})//",
-        text,
+    page = (
+        f"The+Wire+-+{month_name}+"
+        f"{d.day}%2C+{d.year}"
     )
 
-    if m:
-        title = f"The Wire - {m.group(1)}"
-    else:
-        title = "The Wire"
+    url = (
+        "https://publish.obsidian.md/"
+        "s2underground/"
+        "S2+Underground+PUBLISH/"
+        "02+Wire+Reports/"
+        f"{month_folder}/"
+        f"{page}"
+    )
 
-    end = text.find("//END REPORT//")
+    print(f"Trying {url}")
 
-    if end != -1:
-        text = text[: end + len("//END REPORT//")]
+    html = fetch(url)
 
-    wire = text
-    break
+    if html:
+        found_url = url
+        break
 
-if wire is None:
-    raise Exception("No Wire report found.")
 
-wire = wire.replace("\u00A0", " ")
-wire = re.sub(r"\n{3,}", "\n\n", wire)
+if html is None:
+    raise RuntimeError("Unable to locate a Wire report from the last 10 days.")
+
+
+# ----------------------------------------------------
+# Strip HTML
+# ----------------------------------------------------
+
+text = re.sub(r"<script.*?</script>", "", html, flags=re.S)
+text = re.sub(r"<style.*?</style>", "", text, flags=re.S)
+text = re.sub(r"<[^>]+>", "\n", text)
+
+text = (
+    text.replace("&nbsp;", " ")
+        .replace("&amp;", "&")
+        .replace("&lt;", "<")
+        .replace("&gt;", ">")
+)
+
+lines = [x.strip() for x in text.splitlines()]
+lines = [x for x in lines if x]
+
+text = "\n".join(lines)
+
+# ----------------------------------------------------
+# Extract report
+# ----------------------------------------------------
+
+start = text.find("//The Wire//")
+end = text.find("//END REPORT//")
+
+if start == -1 or end == -1:
+    raise RuntimeError("Found page but could not locate report markers.")
+
+report = text[start:end + len("//END REPORT//")]
+
+# remove excessive blank lines
+report = re.sub(r"\n{3,}", "\n\n", report)
 
 with open("wire.txt", "w", encoding="utf-8") as f:
-    f.write(title + "\n")
-    f.write("=" * len(title) + "\n\n")
-    f.write(wire)
+    f.write("The Wire\n")
+    f.write("========\n\n")
+    f.write(report)
+    f.write("\n")
 
-print("wire.txt updated successfully.")
+print("Downloaded:")
+print(found_url)
+print("Saved to wire.txt")
