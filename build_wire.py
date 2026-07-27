@@ -64,25 +64,36 @@ for i in range(10):
         
     print("Downloaded page:", url)
 
-    # Don't stop unless this page actually contains a Wire report
-    if "//The Wire//" in candidate and "//END REPORT//" in candidate:
-        html = candidate
-        found_url = url
+    # Extract the markdown URL from the HTML
+    m = re.search(r'window\.preloadPage=f\("([^"]+)"\)', candidate)
+
+    if not m:
+        continue
+
+    md_url = m.group(1)
+
+    print("Markdown URL:", md_url)
+
+    markdown = fetch(md_url)
+
+    if markdown is None:
+        continue
+
+    # Stop only if the markdown actually contains the report
+    if "//The Wire//" in markdown and "//END REPORT//" in markdown:
+        html = markdown
+        found_url = md_url
         break
 
 if html is None:
     print("No Wire report found in the last 10 days.")
     html = ""
     found_url = "None"
-
+    text = html
 
 # ----------------------------------------------------
 # Strip HTML
 # ----------------------------------------------------
-
-text = re.sub(r"<script.*?</script>", "", html, flags=re.S)
-text = re.sub(r"<style.*?</style>", "", text, flags=re.S)
-text = re.sub(r"<[^>]+>", "\n", text)
 
 text = (
     text.replace("&nbsp;", " ")
