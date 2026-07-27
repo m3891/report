@@ -31,6 +31,8 @@ jobs:
 
           git add *.txt *.html
 
+          git add *.txt *.html *.md
+
           git diff --cached --quiet || git commit -m "Update Wire"
 
           git push
