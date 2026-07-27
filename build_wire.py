@@ -59,8 +59,11 @@ for i in range(10):
         continue
 
     # Save the downloaded page for debugging
-    with open("debug.html", "w", encoding="utf-8") as f:
-        f.write(candidate)
+    with open("debug.md", "a", encoding="utf-8") as f:
+        f.write("\n========================\n")
+        f.write(md_url + "\n\n")
+        f.write(markdown or "fetch() returned None")
+        f.write("\n")
         
     print("Downloaded page:", url)
 
