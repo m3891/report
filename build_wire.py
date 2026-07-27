@@ -77,8 +77,11 @@ for i in range(10):
     markdown = fetch(md_url)
 
     with open("debug.md", "w", encoding="utf-8") as f:
-        f.write(markdown or "")
-
+        if markdown is None:
+            f.write("fetch() returned None")
+        else:
+            f.write(markdown)
+    
     if markdown is None:
         continue
 
