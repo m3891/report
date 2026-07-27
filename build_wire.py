@@ -84,7 +84,12 @@ for i in range(10):
     
     if markdown is None:
         continue
-
+    
+    # Obsidian returns a "Not Found" page instead of a 404.
+    if markdown.lstrip().startswith("Not Found"):
+        print("Markdown file does not exist yet.")
+        continue
+    
     html = markdown
     found_url = md_url
     break
