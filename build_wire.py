@@ -85,11 +85,9 @@ for i in range(10):
     if markdown is None:
         continue
 
-    # Stop only if the markdown actually contains the report
-    if "//The Wire//" in markdown and "//END REPORT//" in markdown:
-        html = markdown
-        found_url = md_url
-        break
+    html = markdown
+    found_url = md_url
+    break
 
 if html is None:
     print("No Wire report found in the last 10 days.")
@@ -97,6 +95,8 @@ if html is None:
     found_url = "None"
     
 text = html
+
+text = html.replace("\ufeff", "")
 
 # ----------------------------------------------------
 # Strip HTML
