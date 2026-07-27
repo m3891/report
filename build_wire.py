@@ -19,6 +19,7 @@ def fetch(url):
 
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
+            print("Final URL:", r.geturl())
             return r.read().decode("utf-8", errors="ignore")
     except urllib.error.HTTPError:
         return None
