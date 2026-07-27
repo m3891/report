@@ -18,7 +18,6 @@ def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
-            print("GET:", r.geturl())
             return r.read().decode("utf-8", errors="ignore")
     except urllib.error.HTTPError:
         return None
@@ -64,16 +63,10 @@ for i in range(10):
 
     md_url = m.group(1)
 
-    print("Markdown:", md_url)
-
     markdown = fetch(md_url)
 
     if markdown is None:
         continue
-
-    # Save latest markdown for debugging
-    with open("debug.md", "w", encoding="utf-8") as f:
-        f.write(markdown)
 
     # Obsidian returns a text page instead of a 404.
     if markdown.lstrip().startswith("## Not Found") \
