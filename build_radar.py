@@ -10,7 +10,7 @@ urllib.request.urlretrieve(URL, "radar_original.gif")
 img = Image.open("radar_original.gif")
 
 # Resize (maintains aspect ratio)
-img.thumbnail((350, 350))
+img.thumbnail((250, 250))
 
 # Reduce colors
 img = img.convert("P", palette=Image.ADAPTIVE, colors=16)
