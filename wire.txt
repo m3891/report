@@ -1,37 +1,29 @@
 The Wire
 ========
 
-//The Wire//2300Z July 27, 2026//
+//The Wire//2000Z July 28, 2026//
 //ROUTINE//
-//BLUF: WEEKEND SHOOTING REPORTED AT SEATTLE FESTIVAL. VEHICLE RAMMING ATTACK REPORTED IN BERLIN. STABBING ATTACK REPORTED IN PARIS. IRANIAN TARGETING CONTINUES TO STRIKE LOCATIONS THROUGHOUT MIDDLE EAST, U.S. HAS NOT RESPONDED YET.//
+//BLUF: MAJOR EARTHQUAKE STRIKES SOUTHERN JAPAN. NETANYAHU ARRIVES IN WASHINGTON D.C. FOR SEN. GRAHAM FUNERAL. HOUTHI TARGETING OF SAUDI OIL REFINERIES REMAINS CONSTANT.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Middle East: After the intense Iranian targeting of American positions Friday evening, sporadic Iranian drone strikes have been reported throughout the region. Other than targeting American positions, Iranian drone attacks have also been observed striking Kurdish militia encampments in northeastern Iraq. On the American side, CENTCOM has not disclosed any strikes within Iran for several days.
+Japan: This morning a major earthquake with an estimated magnitude of 7.1 struck the Kumamoto prefecture, causing damage to critical infrastructure and residential areas in southern Japan. Aeon Mall was one of the most heavily damaged structures, with several entrapments being reported as shoppers were unable to exit the building due to a partial collapse of the structure. After this collapse, a gas explosion was also reported at the mall, and as of this morning approximately 20-30x people remained missing.
 
-Red Sea/HOA: Nearly the entire Jazan Refinery in Saudi Arabia remains on fire following the Houthi targeting on Saturday. As of last night, fire detection satellites indicated that most of the facility has been totally destroyed and satellite imagery from yesterday indicates a very large fire at this facility is still burning and the smoke plume stretches over 50 miles to the south.
+Middle East: No major changes to the overall situation were reported overnight. Satellite imagery has become available that confirms the Houthis not just hit the Jazan refinery a few days ago, but also the refinery at Yanbu. This afternoon, the Houthis announced that they had targeted a tanker vessel which has been at anchor off Yanbu for a few days, though the success of this targeting has not yet been confirmed.
 
-Europe: This morning Iran issued a public condemnation of the Ukrainian targeting of a Russian vessel. Over the weekend a Ukrainian drone struck a Russian vessel, which resulted in the death of one crew member. This crew member happened to be an Iranian citizen, which prompted Foreign Minister Araghchi to issue a statement of outrage.
-
-Analyst Comment: It is very unlikely that the Ukrainians would have known that one random crewmember onboard a vessel was technically Iranian, but intentional or not, this incident is another step towards linking the war in Europe with the conflict in the Middle East.
-
-Germany: On Sunday, a vehicle ramming attack was reported at the Pride festival in Berlin. One assailant ramming his vehicle into a crowd in the vicinity of the Tiergarden west of the Brandenburg Gate, killing one person and wounding 29 others. After the ramming, the suspect exited the vehicle and reportedly stabbed several people with a machete, before fleeing the scene. This prompted a nationwide manhunt for the assailant that was carried out Sunday afternoon. By Sunday evening, the suspect had been located in a residential area of Spandau. Once located, the suspect allegedly tried to stab the arresting officers, which resulted in the suspect being shot and killed. The suspect was identified as Abdul Ballout, who had reportedly just been released from a juvenile detention facility.
-
-France: This morning a stabbing attack was reported in Paris, near Porte de Clichy. One assailant stabbed 3x women on the street, before being restrained by bystanders and an off-duty police officer. While being held down by responding citizens, the attacker claimed that the attack was Islamic in nature, prompting the government to classify this incident as a terror attack.
+Analyst Comment: Despite the devastating strikes on Saudi oil facilities over the past few days, oil markets continue to plummet, indicating a sharp departure from the reality of the situation.
 
 -HomeFront-
 
-Washington: Yesterday a shooting was reported at the Bite of Seattle food festival at the Seattle Center. Multiple black/Middle Eastern males began shooting at each other inside a crowd at the event, which resulted in 3x people killed, and 4x others wounded.
-
-Analyst Comment: This incident was initially reported as a mass shooting, however the multiple shooters were not targeting the crowd, as this was almost certainly a gang/cultural shooting. As a result of the cultural implications, Seattle Police have not released the name of the suspect(s) they have in custody, nor have they released the photo of the suspect which remains at large.
+Washington D.C. - Yesterday afternoon PM Netanyahu arrived for the state funeral of Sen. Lindsey Graham, as well as to conduct meetings regarding the war in Iran. This morning, the proceedings for Sen. Graham began at the Capitol, and various politicians and dignitaries are expected to make an appearance throughout the day.
 
 -----END TEARLINE-----
 
-Analyst Comments: Despite the substantial Iranian targeting over the past few days, the American response has so far been very minimal and no meaningful strikes have been conducted since Friday night within Iran. This is probably a reflection of the calm before the storm, as the United States continues to stage assets for a large scale attack sometime soon. Over the weekend, many phone calls were likely made which may have delayed whatever American targeting was planned to take place, as several Iranian/Houthi targeting efforts appear to have been more substantial than expected. The Houthi strike on the Jazan Refinery was very clearly an extremely devastating strike from the Houthis, which probably caused the Saudis pause regarding how much hurt the Houthis can bring to the table. Similarly, the heavy targeting of Erbil (and Patriot battery at this base) has likely resulted in a degradation of air defenses in this sector. How bad the damage is, is anyone's guess, but based on the scorch marks observed from space last week, it is hard to imagine this air defense site remaining operational. The Iranians have also claimed to have struck half a dozen other air defense sites throughout the region, but these can't be verified until better satellite imagery is available. Which might take time due to the deliberate censorship of imagery as mandated by the U.S. government.
+Analyst Comments: Debate is growing regarding the general status of the war in the Middle East. Iranian targeting has remained fairly tepid after last week's strikes, although the Houthis have continued to deal damage to Saudi infrastructure over the past few days. For the United States, every indicator lined up last week to suggest weekend strikes were going to take place, but leaks from the White House and Pentagon have suggested that the strikes were called off for now. As to why, the rumors diverge sharply and there's no way to get a solid bead on what the actual plan is at the moment. The situation has reached another point (much like has happened before) where the US can just as equally go all-in on another round of strikes, or the US could do nothing. Nevertheless, if strikes are planned, timing wise it's almost certain to take place after Netanyahu returns home from his visit to the US.
 
-Over the past few weeks, anecdotal evidence from locals on the ground throughout the region has increasingly indicated fewer and fewer successful interceptions of Iranian munitions. These reports are very hard to quantify as most of the time it's a shepherd looking up and visually seeing the interceptors miss the Iranian missile, or no interceptors being launched in the first place. Obviously, these reports are about as unconfirmed as it can get, but the smoking craters that are visible on satellite imagery add a lot of credence to the general theory that, for whatever reason, interceptions are not as effective as advertised. However, as it stands the U.S. will probably respond in some way, not just because of the scale of the Iranian missile strikes, but also the fact that this targeting (and the collapse of the ceasefire) has resulted in the Strait of Hormuz remaining fully closed. What that response will be or when it will be carried out, only time will tell.
+President Trump himself confirmed one of the main reasons for PM Netanyahu visiting Washington, is to provide an in-person briefing on the infamous Pickaxe Mountain complex at the Natanz nuclear facility in Iran. In various statements since this leaked, President Trump pushed back on the significance of this underground complex (and thus indicating less support for conducting another Midnight Hammer-style operation), but as always this can go either way.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
