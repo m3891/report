@@ -1,31 +1,29 @@
 The Wire
 ========
 
-//The Wire//2300Z July 29, 2026//
+//The Wire//2000Z July 28, 2026//
 //ROUTINE//
-//BLUF: WAR IN MIDDLE EAST EXPANDS TO AFRICA AS DRONE ATTACK REPORTED IN EGYPT. IRAN CONDUCTS MORE MISSILE STRIKES ON AMERICAN BASES IN MIDDLE EAST, UNITED STATES BEGINS RESPONSE THIS EVENING. CYBERATTACK TARGETS MINNESOTA WATER SUPPLY.//
+//BLUF: MAJOR EARTHQUAKE STRIKES SOUTHERN JAPAN. NETANYAHU ARRIVES IN WASHINGTON D.C. FOR SEN. GRAHAM FUNERAL. HOUTHI TARGETING OF SAUDI OIL REFINERIES REMAINS CONSTANT.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Middle East: Overnight Iran conducted missile and drone attacks throughout the region, targeting American positions. Muwaffaq al Salti was hit again, along with the American base in Erbil. After this series of attacks, the White House has indicated that the US will be retaliating soon, and as of this report American airstrikes have resumed within Iran.
+Japan: This morning a major earthquake with an estimated magnitude of 7.1 struck the Kumamoto prefecture, causing damage to critical infrastructure and residential areas in southern Japan. Aeon Mall was one of the most heavily damaged structures, with several entrapments being reported as shoppers were unable to exit the building due to a partial collapse of the structure. After this collapse, a gas explosion was also reported at the mall, and as of this morning approximately 20-30x people remained missing.
 
-Egypt: This morning, explosions were reported onboard a floating natural gas storage/processing platform in Damietta Port. An American-registered Floating Storage and Regassification Unit (FSRU) was reportedly struck by at least one munition, which resulted in several follow-on explosions. Separately, another tanker vessel was reportedly struck in the same general area. As of this afternoon firefighting boats were still cooling the superstructure and most of the topside equipment onboard the two vessels.
+Middle East: No major changes to the overall situation were reported overnight. Satellite imagery has become available that confirms the Houthis not just hit the Jazan refinery a few days ago, but also the refinery at Yanbu. This afternoon, the Houthis announced that they had targeted a tanker vessel which has been at anchor off Yanbu for a few days, though the success of this targeting has not yet been confirmed.
 
-Analyst Comment: Egyptian authorities have stated that these explosions were an industrial accident, however a video taken by a crew member onboard the vessel that was struck confirms that the incident was a drone attack. Regardless, nobody has claimed this as a targeting effort yet, and if this was Iran, it would be the longest-range attack they have conducted so far during the war. As a result, it's possible (or even likely) that these drones were launched from somewhere closer than Iran. Lebanon is the only wild guess that makes sense, as it's a straight shot across the water to the target.
+Analyst Comment: Despite the devastating strikes on Saudi oil facilities over the past few days, oil markets continue to plummet, indicating a sharp departure from the reality of the situation.
 
 -HomeFront-
 
-USA: Yesterday evening American Airlines announced a nationwide ground stop of all of their aircraft due to an IT outage. The FAA implemented the emergency action due to an unspecified loss of connectivity between American Airlines aircraft and ground control systems. Mass delays were reported nationwide while the outage was being fixed, and after several hours systems were restored.
-
-Minnesota: This afternoon a large scale cyberattack was reported targeting water treatment and processing systems throughout the state. The cyberattack was only disclosed to the public this morning, but initially took place on July 26/27. The immediate impact of this cyberattack resulted in power outages and the control of automated water management systems being affected. As of this afternoon, the towns of Braham, Maple Plain, Plymouth, and south St. Paul have all reported being impacted by the cyberattack, with many districts throughout the state remaining under a boil-water advisory.
+Washington D.C. - Yesterday afternoon PM Netanyahu arrived for the state funeral of Sen. Lindsey Graham, as well as to conduct meetings regarding the war in Iran. This morning, the proceedings for Sen. Graham began at the Capitol, and various politicians and dignitaries are expected to make an appearance throughout the day.
 
 -----END TEARLINE-----
 
-Analyst Comments: CENTCOM and the media are calling Iran's actions last night a "surprise attack", but in reality it was no different than all of the other attacks conducted so far. CENTCOM has stated that all missiles were intercepted, but locals on the ground have provided photos of large fires and smoke plumes being emitted from American bases. Nevertheless, theses attacks probably pushed the decision to be made regarding a return to strikes, in some form. The war officially expanding to now include Egypt is very likely to complicate the situation further...this one war involving Iran has now technically spread to a total of three continents: Asia, Europe, and now northern Africa. Of course, one or two drone strikes does not equal a large scale operation, but back in 1942 Doolittle's Raid didn't either. It was meant to send a message, much like the extremely long-range attack that was carried out in Egypt today.
+Analyst Comments: Debate is growing regarding the general status of the war in the Middle East. Iranian targeting has remained fairly tepid after last week's strikes, although the Houthis have continued to deal damage to Saudi infrastructure over the past few days. For the United States, every indicator lined up last week to suggest weekend strikes were going to take place, but leaks from the White House and Pentagon have suggested that the strikes were called off for now. As to why, the rumors diverge sharply and there's no way to get a solid bead on what the actual plan is at the moment. The situation has reached another point (much like has happened before) where the US can just as equally go all-in on another round of strikes, or the US could do nothing. Nevertheless, if strikes are planned, timing wise it's almost certain to take place after Netanyahu returns home from his visit to the US.
 
-Egypt certainly received that message lout and clear, but it is questionable as to if the significance of this small attack was understood by the United States. Though the usual tit-for-tat cycle has been disrupted somewhat over the past week, at a more strategic level all indications are in place pointing toward a continuation of what's been ongoing since the ceasefire was broken: Tit-for-tat strikes continuing that stay below the level of all-out war, but also resulting in no diplomatic solution for the time being. All the while the war slowly creeps outside the bounds of the region, and the message becomes more clear: From the Nile Delta to Mumbai...nowhere is safe from the impact of war.
+President Trump himself confirmed one of the main reasons for PM Netanyahu visiting Washington, is to provide an in-person briefing on the infamous Pickaxe Mountain complex at the Natanz nuclear facility in Iran. In various statements since this leaked, President Trump pushed back on the significance of this underground complex (and thus indicating less support for conducting another Midnight Hammer-style operation), but as always this can go either way.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
