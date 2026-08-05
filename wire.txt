@@ -1,35 +1,29 @@
 The Wire
 ========
 
-//The Wire//2300Z August 3, 2026//
+//The Wire//2300Z August 4, 2026//
 //ROUTINE//
-//BLUF: MASS SHOOTING CONDUCTED IN IDAHO, PREPARED CITIZEN RETURNS FIRE DURING SMALL ARMS ENGAGEMENT. PRESIDENT TRUMP CALLS OFF WEEKEND STRIKES IN IRAN. WILDFIRES DEVASTATE URBAN AREAS IN PACIFIC NORTHWEST.//
+//BLUF: IRANIAN ATTACKS CONTINUE IN KUWAIT AND STRAIT OF HORMUZ. TURKISH MERCHANTS STRUCK BY UKRAINIAN DRONES IN BLACK SEA. WILDFIRE RESPONSE CONTINUES IN PACIFIC NORTHWEST AS ARSON REMAINS A CONCERN.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Middle East: On Saturday, President Trump stated that the weekend strikes had been called off. Throughout the region the status quo remains, and no major targeting efforts were conducted since last week, with the exception of Iran continuing to strike merchant vessels which try to transit the Strait of Hormuz using the unauthorized southern route.
+Middle East: This morning Iranian attacks continued in the Strait of Hormuz, targeting more vessels which have attempted to transit via the unauthorized southern route. Around the region,  Iranian forces targeted American installations in Kuwait overnight, with locals reporting large fires allegedly in the vicinity of Camp Buehring. 
+
+Analyst Comment: This is the first round of strikes that was not explicitly tied to the tit-for-tat American strikes, and this is one of the few times the Iranians have launched an attack during this war, that was not purely retaliatory. This is the latest indicator that the Iranians are becoming increasingly less likely to allow the United States to conduct strikes, and then let the markets cool off by the time the opening bell rings. Conducting strikes on their own terms and timing, is likely a tactic Iran will continue to exercise while the United States tries to buy more time to figure out how to win the war.
+
+Europe: The war in Ukraine has remained hot on multiple fronts as attacks on merchant shipping in the Black Sea continue to involve more third-party nations. This morning, Ukrainian drones targeted the M/V *NADEZHDA* (IMO: 7702657) just off the coast of Novorossiysk. This vessel is a Roll-on, Roll-Off (RoRo) vehicle transportation vessel, and was owned and operated by Turkey, with a mostly Turkish crew. In addition to this strike, another vessel was also struck in the same general area. The M/V *YASAR* (IMO: 9276341), a smaller regional containership was struck at roughly the same time as the *NADEZHDA*. Both vessels had recently departed port Novorossiysk before being struck.
+
+Analyst Comment: So far, Turkish authorities have played their hand very carefully, and there haven't been any public statements indicating how serious they are treating these strikes. The Turks have called on both Ukraine and Russia to ensure safe navigation in the Black Sea, which is exactly the kind of milquetoast statement that would be expected for a NATO member which also buys a lot of Russian military hardware. Nevertheless, this duality of defense is only going to last for so long, especially if this war expands to include the deaths of Turkish civilians onboard Turkish civilian ships.
 
 -HomeFront-
 
-Idaho: On Saturday, an active shooter incident was reported at an In-N-Out restaurant in Twin Falls. At approximately 2:30pm local time, one gunman approached the structure and began shooting at the patrons inside. During the attack, an armed and prepared citizen responded to the shooting and began engaging the shooter. This action prompted the shooter to break off the attack, and take his own life, ending the incident. During the fray, an off duty police officer at the venue also responded to the shooting, and was seriously wounded by a gunshot wound to the arm.
-
-Concerning casualties, a total of 3x people were killed during the attack, at least one of which was an employee of the restaurant. Approximately 7x others were wounded, some of which remain in critical condition. The suspect has been identified as Chad Williams, and no information has been released regarding the motive for the attack.
-
-Analyst Comment: Based on the videos that have come to light during the shooting, the attacker was very likely not expecting any opposition to arrive for some time, and was likely caught off guard by at least one, possibly two people shooting at him immediately after his attack began. Though this shooting will be scrutinized over the next few weeks, the immediate lesson learned is that both violence of action and some level of training are the most important factors for turning the tide during an active shooter incident.
-
-Washington: Over the weekend, wildfires have spread throughout the Pacific Northwest, with an exceptionally dangerous series of fires affecting Spokane. Fire damage has spread to the urban areas at the northwestern side of town, and upwards of 65,000 people remain affected or displaced by the devastation statewide.
-
-Analyst Comment: In wildland fire management, one of the most dangerous fire situations are fires that occur at the Wildland-Urban Interface (WUI). These are fires which occur on the outskirts of towns, where jurisdictions meet and interagency coordination is more difficult due to varying tactics being used in fighting the fire. In this case, the fires spreading to the urban environment very quickly resulted in the loss of approximately 700 structures in Spokane County.
+Pacific Northwest: Wildfire concerns remain paramount as disaster recovery efforts continue in Washington state. Spokane is the biggest urban interface affected by the wildfires, and many suburbs and surrounding towns have burned completely to the ground. The National Interagency Fire Center status report for this morning stated that the three main wildfires burning in the Spokane area are still zero-percent contained, though major gains were made in combatting two of the fires threatening local homes in the suburbs. So far, most of the firefighting efforts have prioritized immediate risk to life within the residential areas of the city, in addition to aiding evacuation efforts for much of the population.
 
 -----END TEARLINE-----
 
-Analyst Comments: Though the chances of this theory being correct are slim, there is another possible explanation for the weekend shenanigans in the Middle East, that does not lie in the realm of stock market manipulation or insider trading. It is possible that the long buildup to weekend strikes on the rhetoric front (but not really in terms of staging a lot of aircraft) was intended to make someone or something move.
-
-Speaking operationally, the Iranians have been buttoned up for some time now, as they are fighting a defensive war on their home turf. Most Iranian leadership, even down the chain to mid-level management positions, are all expecting decapitation strikes, the targeting of headquarters positions, and other secret bunker complexes and safehouses that are used for command and control. When an adversary is dug-in so substantially, sometimes it's beneficial to "shake the tree", as in, to do something to get the dug-in adversary to either move or communicate with others. If this was the goal, it probably worked and resulted in some intelligence benefit. The Iranians viewed the strikes as imminent, to the point that cities were being evacuated, leave was canceled for ground troops, and key leaders had moved to their more substantial bunker complexes. Movement which the watchful eye of American intelligence agencies could see.
-
-Of course, if this theory bears any weight, the overall reasoning for why this took place is still fairly dumb. Normally, these types of information operations are useless unless they are capitalized on immediately, as stale intelligence does not really help the overall strategic situation. What's astronomically more likely than some sort of intelligence collection potential is simply the financial incentives to keep playing financial markets, and hoping that the "we're bombing them"/"they called and want to make a deal" cycle continues to be a viable option for both insider trading, but also to string the war along and buy time for a solution to hopefully materialize.
+Analyst Comments: In eastern Washington, weather is going to play a factor over the next few days and the region at large is not out of the woods just yet. The National Weather Service Fire weather update from this morning indicated light and variable winds forecasted for tonight, increasing tomorrow. Temperatures today were a bit cooler, but temps are expected to rise (and humidity expected to drop) ever further tomorrow, as winds begin to rise. This afternoon's weather forecast continued to indicate increasing winds of over 20mph are likely throughout central and eastern Washington on Friday and Saturday. As a result, fire behavior conditions can change quickly, and increased situational awareness is vital while the crisis continues. This is especially important considering the origin of the fires. At least one arrest has been made due to at least some of these fires being arson, and the risk of continued malign action is likely while these weather patterns continue.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
