@@ -1,31 +1,27 @@
 The Wire
 ========
 
-//The Wire//2300Z August 6, 2026//
+//The Wire//1700Z August 10, 2026//
 //ROUTINE//
-//BLUF: AIR TRAFFIC CONTROL OUTAGE RESULTS IN MINNEAPOLIS CENTER DIVERTING MOST AIRCRAFT TO OTHER SECTORS. NEW CDC DIRECTOR CONFIRMED BY SENATE. IRAN REPORTEDLY STRIKES TWO TANKERS IN HORMUZ.//
+//BLUF: MAJOR EARTHQUAKE STRIKES COLOMBIA. WAR CONTINUES IN MIDDLE EAST. BRITISH MOD ALLEGEDLY INVESTIGATING VULNERABILITIES WITH NEWLY-PURCHASED DRONE BOAT FLEET.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Middle East: Iranian targeting of merchant vessels has continued, with two more vessels being struck this afternoon in the Strait of Hormuz. Iranian sources claim that they struck the M/T *NISSOS KEA* (heading outbound) and the M/T *NISSOS KEROS* (heading inbound) while the two vessels were being escorted by the United States through the southern Omani route.
+Middle East: The situation continues as before, with routine strikes being carried out over the weekend. Iran has continued to strike merchant shipping in the Strait of Hormuz, with daily targeting efforts being reported for about a week. Overnight, a tanker vessel was struck in the Strait, with the resulting fire being visible from land.
 
-Analyst Comment: These two strikes have not yet been confirmed by the UKMTO, but reporting regarding strikes on ships is ironically hit-or-miss at this point. If these ships were being escorted at the time, these strikes would be quite important, but this detail is the most questionable at this time. What is certain is that both vessels shut off their transponders when they got close to the Strait, and the status of both vessels is not known.
+Red Sea/HOA: The Houthis have been active over the past few days, conducting low-level strikes against the Saudi staging areas along the border region with Yemen. More significantly, the Houthis have also struck the Jazan refinery again, with the Saudis targeting the port of Mocha in Yemen.
 
--HomeFront-
+France: As wildfires have continued to spread around the nation, French authorities have announced the arrest of over 420x individuals on charges of arson, at least 166x of which are individuals claiming to be minors who admitted to deliberately starting fires.
 
-Minnesota: This afternoon all flights at Minneapolis-St. Paul International Airport were grounded for several hours, due to a communications issue with Air Traffic Control. Most aircraft diverted to different air control sectors while Minneapolis Center was down, and many delays were reported nationwide due to the cascading affects of an outage in a busy air corridor. The exact cause of the outage has not yet been disclosed.
+United Kingdom: This morning the Telegraph published a leak from within the Ministry of Defense, pertaining to the new K3 Unmanned Surface Vessels (USVs) that have been purchased by the Royal Marines. The leak alleges that some components within the drone boat fleet are made in China, and actually "phone home" to data centers back in China. The Ministry of Defense has denied any security vulnerabilities, but an emergency audit has been announced to investigate the matter.
 
-Washington D.C. - The FAA is investigating air traffic control procedures at Ronald Reagan International Airport after an incident involving the President. Yesterday afternoon, MARINE ONE lifted off from the White House grounds to transport President Trump to Joint Base Andrews to depart for Los Angeles. Normally, when MARINE ONE flies this routine route, commercial aviation at Reagan is halted for a few minutes to provide a security standoff for Presidential aircraft. Tuesday night, this did not occur, and a civilian airliner passed within one mile of the President's helicopter.
-
-Analyst Comment: In terms of security incidents, this is comparatively minor and no safety concerns came about. There was no risk of collision, but due to the extreme levels of caution that is in place with any Presidential aircraft (and the zero-fail nature of the mission) ATC at Reagan making this mistake is concerning. Especially in the context of the long list of aviation mishaps that have plagued this specific airport for the past few years.
-
-Washington D.C. - Yesterday the Senate confirmed Dr. Erica Schwartz as director of the CDC. Before this position, Schwartz was a clinician for the Coast Guard, with her entire career being spent in the realm of creating and managing vaccine policy. Her latest position was to serve as the Preventative Medicine Chief in the Operational Medicine Readiness Division at headquarters in Washington, and was in charge of creating all vaccine policies for the USCG. Her priority areas for vaccine management and administration have been in Haiti, New Orleans (after Hurricane Katrina), and more recently with the Ebola outbreak in Africa.
+Analyst Comment: Having a foreign adversary contribute to any part of the production chain for highly secret and cutting-edge military technology is a suboptimal decision.
 
 -----END TEARLINE-----
 
-Analyst Comments: The confirmation hearings to get the CDC Director position across the line were initially a bit uncertain, as Schwartz's main interest is in the world of vaccines. As HHS Secretary Robert Kennedy has been extremely outspoken on the topic of vaccine policy management, most of her confirmation hearings involved Senators questioning if she would continue the ways of the "old guard" at the CDC, or if she would follow the newer policy initiatives of her boss (Secretary Kennedy), who most of the traditional bureaucracy opposes. After a few brief rounds of questioning, the Senate was satisfied with her answers and she was confirmed with the vote splitting mostly along party lines.
+Analyst Comments: This morning an earthquake with an estimated magnitude of 7.4 was reported in the western districts of Colombia, which resulted in infrastructure damage throughout the region. The city of Cali was hardest hit, with many structures collapsing or otherwise suffering major damage. So far, roughly 20x fatalities have been reported outright, but the true scale of the damage will take some time to determine due to the remote nature of many affected villages. There is not a lot of information on how bad the damage is, and most of what has circulated are videos showing the damage, or other first hand reports. At the time of this report, this is a developing story, and details are likely to change as more information becomes available.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
