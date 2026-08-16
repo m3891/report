@@ -1,14 +1,14 @@
 WINLINK CUSTOM REPORT
 ---------------------
-Updated : Aug 16 12:26 AM EDT
+Updated : Aug 16 04:17 AM EDT
 Sunrise: 6:37 AM   Sunset: 8:25 PM
 
 WAYNE CO. WEATHER
 ------------------
-CURRENT : 71F, Showers And Thunderstorms
-ALERTS  : Flood Watch until 5:00 AM
-HAZARDS : See ALERTS.
-FORECAST: Showers And Thunderstorms. Low 68F. Wind S 7 mph.
+CURRENT : 69F, Rain Showers Likely
+ALERTS  : None
+HAZARDS : Wind gusts up to 22 mph.
+FORECAST: Rain Showers Likely. Low 68F. Wind S 6 mph.
 
 HF CONDITIONS
 -------------
