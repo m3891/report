@@ -1,33 +1,27 @@
 The Wire
 ========
 
-//The Wire//1900Z August 20, 2026//
+//The Wire//2300Z August 21, 2026//
 //ROUTINE//
-//BLUF: U.S. MERCHANT MARINE VESSEL SINKING IN PACIFIC OCEAN DUE TO SHAFT SEAL FAILURE. PRESIDENT TRUMP ANNOUNCES NEW ECONOMIC WARFARE CAMPAIGN AGAINST IRAN.//
+//BLUF: FBI ARRESTS MENTALLY ILL INDIVIDUAL IN NEW YORK, WHO THEY PROMPTED TO CONDUCT A TERROR ATTACK. CONCERNS GROWING REGARDING SOCIAL IMPACT OF LINDSAY CLANCY TRIAL AND POTENTIAL COPYCATS.//
 
  -----BEGIN TEARLINE-----
 
--International Events-
-
-Middle East: President Trump announced a new economic offensive against Iran, aimed at leveling sanctions on nations which are working with Iran. In his post on Truth Social, President Trump stated that economic sanctions will be used against third-party nations which are providing financial aid to Iran, are engaged in oil smuggling, or otherwise are benefitting from Iran's current status within the region.
-
-Analyst Comment: Choosing to engage in an "ECONOMIC D-DAY" is probably an acknowledgement that, at present, military options are not likely to achieve the intended effect. If a front is being opened up on the economic side of the war, the worse case scenario is that it probably won't make the situation much worse in the short term. However, if this economic effort is genuine, this is a major indicator that the war is expected to last for a long time, as economic wars of attrition rarely resolve quickly.
-
-Pacific Ocean: Last night an incident was reported onboard the M/V *SLNC YORK* after a mechanical error resulted in a catastrophic shaft seal break approximately 1,100 nautical miles northeast of Saipan. An emergency distress call was transmitted and the crew abandoned ship due to the uncontrolled flooding in the engine room. Another merchant vessel, the M/T *PACIFIC TANTAI* rescued the crew from liferafts, and a US Navy Destroyer also responded to the scene to take on the crew. The vessel remains adrift as she sinks, and salvage crews are reportedly moving to the vessel to stabilize the ship in hopes of preventing her sinking.
-
-United Kingdom: This morning the Home Office published a pamphlet for migrants, informing them on how to not rape British citizens. The brochure informs asylum seekers that they cannot rape random people and that they cannot own slaves. Per the documentation, if they were to do so, they *could* (not will) go to prison.
-
-Analyst Comment: As one could probably expect, a laminated brochure is unlikely to have the same effectiveness as hanging violent criminals from lampposts, but the Home Office seems keen to give it a try anyway.
-
 -HomeFront-
 
-USA: Concerns remain constant concerning the rise in public officials using Flock cameras illegally. After the initial concerns with Flock itself became mainstream weeks ago, concerns have been growing regarding other similar companies such as Axon. Over the past few weeks dozens of police officers have been fired and arrested for misusing Flock/Axon sensor suites. Many of these cases of misuse involve everything from stalking exes, to interfering with investigations and evidence tampering. Earlier this month in Charlotte, North Carolina, one police officer was arrested after his drug-dealer friend asked him to run a license plate through the Flock database, to check if his buyer was an undercover cop (which he was).
+Massachusetts: The Lindsay Clancy trial continues in Plymouth, which has resulted in localized protests in support of Clancy. For context, this murder trial is the result of Clancy murdering her three children in the family home in 2023, after her husband left her alone for a few minutes to run errands. Clancy has confessed to the murder, and is currently attempting to plead an insanity defense. Throughout the trial, the crowd of protesters supporting Clancy have grown in size outside Plymouth Superior Court, with hundreds of people lining the streets to show their support for her.
+
+Analyst Comment: Ordinarily the Clancy trial would be classified as social commentary that while a horrific murder trial, would normally be confined to the tabloids. However in this case, it's resulting in wider impact that is worth being aware of due to the future threats that are presented. Many supporters of Clancy have taken to social media to abuse their children for TikTok videos, to show their support for Clancy. These abuse videos (along with the millions of people supporting them) have increased to the point that this is now presenting real risks for copycat murders over the next few weeks.
+
+New York: Last night the DoJ announced the arrest of an alleged terrorist, who was allegedly planning to conduct an attack at the New York Capitol building. The FBI provided Jessica Bowie with $200 to buy acetone, nails, and electrical tape at Home Depot which she gave to undercover agents to create an explosive device. Once the IED (which was a fake) was provided back to Bowie for the attack, she was arrested.
 
 -----END TEARLINE-----
 
-Analyst Comments: The *SLNC YORK*  was not a random cargo ship, she was a part of the Maritime Security Program within the U.S. Maritime Administration. This vessel was working under contract for the US Navy, and frequently carriers military cargo between the United States and US military bases within PACOM. At the time of her crew abandoning ship, her exact cargo is not known, but it was probably logistical supplies intended for PACOM. This vessel sinking (along with the cargo) will probably make the already dire logistical situation within PACOM and CENTCOM worse, simply due to the logistical shuffle that will be needed to replace that capability.
+Analyst Comments: The arrest in New York was not a legitimate terrorism threat, this is a very clear case of the FBI plotting a terror attack themselves and getting some idiot to go along with it. Normally there's a bit of grey area in terms of how significant an arrest actually is, but in this case this is a Biden-era-style FBI investigation, which is embarrassing to have been such an overwhelmingly significant federal case. They put multiple active surveillance teams on this individual, with dozens of agents getting involved to orchestrate every single step of the alleged attack plans. Per their own documentation, they planned the attack themselves and targeted Bowie for an entrapment operation. At no point in the indictment did the DoJ ever allege that she was in communication with actual ISIS members; she was only talking to FBI agents who encouraged her to try some haphazard attack. Per the indictment, the FBI approached her first, after she posted pro-ISIS comments/posts online, and the undercover agent had to coach her on how to make the pledge to ISIS.
 
-Concerning the damage itself, within the maritime community, a shaft seal failure at sea is an immediate threat to the vessel. This seal is essentially a large mechanical gasket which acts as a seal between the spinning propeller and the hull of the ship. The shaft seal allows for the propeller to spin freely, while also keeping seawater out of the vessel, and when it fails, it normally results in immediate catastrophic flooding in a compartment that is impossible to fully seal off (the engine room). This is not something that would be the result of hostile action or even sabotage, if the shaft seal did fail this would be a non-malicious catastrophic failure, but one which occurred at the worst possible time.
+As for Bowie herself, she does not appear to be a part of a legitimate terrorist organization, but a rather strange version of ISIS that she alone is allegiant to. Based on the indictment, she is very clearly mentally ill, and she did not know hardly anything about the variety of Islam that ISIS is known for (nor did the FBI agents investigating her, apparently). She did not even know how to spell "jihad" correctly, and most of her communications contained Arabic words that she probably heard on the internet. To be sure, she very clearly went along with the entire plot, and did desire to cause harm. However, the DoJ is pretending like they just stopped another major terror attack, and they most certainly did not.
+
+The worst part of the entire case is that the FBI almost got her roommate killed. While this entire saga was underway, Bowie was living with her roommate, and per the indictment Bowie verbally considered stabbing her roommate to death if the roommate were to discover the fake IED that the FBI had given her. In trying to make themselves look good, the FBI's entrapment case almost resulted in their mentally ill target murdering some random person.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
