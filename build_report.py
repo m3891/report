@@ -153,15 +153,26 @@ sunset = (
 # Today's Forecast
 # --------------------------------------------------------
 
-forecast_line = today["shortForecast"]
+# Find today's daytime and nighttime forecast periods
+day_forecast = next(
+    (p for p in periods if p["isDaytime"]),
+    today
+)
 
-if today["isDaytime"]:
-    forecast_line += f". High {today['temperature']}F."
-else:
-    forecast_line += f". Low {today['temperature']}F."
+night_forecast = next(
+    (p for p in periods if not p["isDaytime"]),
+    None
+)
 
-wind_dir = today["windDirection"].strip()
-wind_speed = today["windSpeed"].strip()
+forecast_line = day_forecast["shortForecast"]
+
+forecast_line += f". High {day_forecast['temperature']}F."
+
+if night_forecast:
+    forecast_line += f" Tonight: Low {night_forecast['temperature']}F."
+
+wind_dir = day_forecast["windDirection"].strip()
+wind_speed = day_forecast["windSpeed"].strip()
 
 if wind_speed.startswith("0"):
     forecast_line += " Wind calm."
