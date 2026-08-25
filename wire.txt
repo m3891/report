@@ -1,27 +1,33 @@
 The Wire
 ========
 
-//The Wire//2300Z August 21, 2026//
+//The Wire//2300Z August 24, 2026//
 //ROUTINE//
-//BLUF: FBI ARRESTS MENTALLY ILL INDIVIDUAL IN NEW YORK, WHO THEY PROMPTED TO CONDUCT A TERROR ATTACK. CONCERNS GROWING REGARDING SOCIAL IMPACT OF LINDSAY CLANCY TRIAL AND POTENTIAL COPYCATS.//
+//BLUF: BODY DUMP SITE LOCATED IN OREGON. MARITIME TRAFFIC IN MIDDLE EAST REMAINS STAGNANT AS HOUTHIS STRIKE SHIP IN RED SEA. RENO WILDFIRE CONTINUES TO THREATEN SUBURBS.//
 
  -----BEGIN TEARLINE-----
+ 
+-International Events-
+
+Red Sea/HOA: This morning a merchant vessel was struck by an unidentified munition in the Red Sea, to the west of the port of Yanbu. The M/V AMZAN was struck by the Houthis while transiting the Red Sea, and as of this afternoon remains on fire.
+
+Ukraine: This morning a mass stabbing attack was reported at a monetary in Donestk. An unidentified group of assailants breached the compound of the Holy Dormition Svyatogorsk Lavra Monastery, and began attacking the clergymen living at the compound. This attack resulted in the murder of at least one monk, and the wounding of several others. An investigation is currently underway to identify the culprits of the attack.
 
 -HomeFront-
 
-Massachusetts: The Lindsay Clancy trial continues in Plymouth, which has resulted in localized protests in support of Clancy. For context, this murder trial is the result of Clancy murdering her three children in the family home in 2023, after her husband left her alone for a few minutes to run errands. Clancy has confessed to the murder, and is currently attempting to plead an insanity defense. Throughout the trial, the crowd of protesters supporting Clancy have grown in size outside Plymouth Superior Court, with hundreds of people lining the streets to show their support for her.
+New York: Over the weekend, Buffalo-Niagara International Airport ran out of jet fuel, resulting in aircraft diverting to other airports to refuel. Delays continued throughout the evening for some flights, with most flights returning to normal this morning.
 
-Analyst Comment: Ordinarily the Clancy trial would be classified as social commentary that while a horrific murder trial, would normally be confined to the tabloids. However in this case, it's resulting in wider impact that is worth being aware of due to the future threats that are presented. Many supporters of Clancy have taken to social media to abuse their children for TikTok videos, to show their support for Clancy. These abuse videos (along with the millions of people supporting them) have increased to the point that this is now presenting real risks for copycat murders over the next few weeks.
+Analyst Comment: This is more of a localized issue resulting with problems internal to the airport. Initially, statements indicated that the problem was within the supply chain itself, as this airport is supplied by trucks carrying fuel and not a pipeline like many other airports. However this afternoon, the airport stated that the issue was due to an electrical wiring problem at the fuel point.
 
-New York: Last night the DoJ announced the arrest of an alleged terrorist, who was allegedly planning to conduct an attack at the New York Capitol building. The FBI provided Jessica Bowie with $200 to buy acetone, nails, and electrical tape at Home Depot which she gave to undercover agents to create an explosive device. Once the IED (which was a fake) was provided back to Bowie for the attack, she was arrested.
+Oregon: On Saturday, authorities discovered a body dump site at a rural home in Washington County. Local authorities initially responded to a fire at a residence on NW Otis Lane, after neighbors reported seeing a vehicle on fire at this location. Once firefighters arrived on scene, they discovered a series of human remains. All total, 5x bodies were found at this location, along with several deceased animals. Once police arrived on scene, the suspect was identified as Benjamin Charles Parker, who was tracked to an undisclosed location in Enumclaw, WA. At this location, Parker was discovered deceased in his vehicle. No further information has been provided on this incident, and the investigation into what actually happened continues.
+
+Nevada: Major wildfires continue to spread in the vicinity of Reno, with roughly 14,000 homes remaining under mandatory evacuation orders. Residential areas to the north and west of the city remain threatened as the Hawk Fire remains at zero-percent containment. Local authorities state that this fire was caused by human activity, though the exact point and circumstances of the origin has not yet been disclosed.
 
 -----END TEARLINE-----
 
-Analyst Comments: The arrest in New York was not a legitimate terrorism threat, this is a very clear case of the FBI plotting a terror attack themselves and getting some idiot to go along with it. Normally there's a bit of grey area in terms of how significant an arrest actually is, but in this case this is a Biden-era-style FBI investigation, which is embarrassing to have been such an overwhelmingly significant federal case. They put multiple active surveillance teams on this individual, with dozens of agents getting involved to orchestrate every single step of the alleged attack plans. Per their own documentation, they planned the attack themselves and targeted Bowie for an entrapment operation. At no point in the indictment did the DoJ ever allege that she was in communication with actual ISIS members; she was only talking to FBI agents who encouraged her to try some haphazard attack. Per the indictment, the FBI approached her first, after she posted pro-ISIS comments/posts online, and the undercover agent had to coach her on how to make the pledge to ISIS.
+Analyst Comments: In the Middle East, maritime traffic throughout the region remains stagnant as the war of information continues. On Friday, reports circulated claiming that 40x ships passed through the Strait of Hormuz secretly, using the southern Omani route. In reality, this report is a complete fabrication. Not only is merchant traffic easily verifiable via a number of sources, but the UKMTO themselves (which work for USNAVCENT) stated that this entire week, the amount of traffic through the Strait has been in the "single digits" both ways.
 
-As for Bowie herself, she does not appear to be a part of a legitimate terrorist organization, but a rather strange version of ISIS that she alone is allegiant to. Based on the indictment, she is very clearly mentally ill, and she did not know hardly anything about the variety of Islam that ISIS is known for (nor did the FBI agents investigating her, apparently). She did not even know how to spell "jihad" correctly, and most of her communications contained Arabic words that she probably heard on the internet. To be sure, she very clearly went along with the entire plot, and did desire to cause harm. However, the DoJ is pretending like they just stopped another major terror attack, and they most certainly did not.
-
-The worst part of the entire case is that the FBI almost got her roommate killed. While this entire saga was underway, Bowie was living with her roommate, and per the indictment Bowie verbally considered stabbing her roommate to death if the roommate were to discover the fake IED that the FBI had given her. In trying to make themselves look good, the FBI's entrapment case almost resulted in their mentally ill target murdering some random person.
+This report was almost certainly intended to manipulate financial markets once again, as Brent crude started climbing back up due to the announcement of the economic warfare campaign intended for Iran. TankerTrackers has stated that all total, over the past 7 days, the entire region has exported 6 million barrels of oil per day, though not all of such has transited the Strait (some has originated from Oman and the UAE, which have pipelines bypassing the Strait). This figure is also the totality of petroleum that has been exported to the global market; the exact amount of petroleum which has specifically been exported to the United States is not as easy to parse from the total. Nevertheless, the total figure is still much less than the pre-war average of roughly 20 million barrels per day, which is the main reason for why the United States continues to drain the Strategic Petroleum Reserve.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
