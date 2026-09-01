@@ -1,29 +1,25 @@
 The Wire
 ========
 
-//The Wire//2300Z August 28, 2026//
+//The Wire//2300Z August 31, 2026//
 //ROUTINE//
-//BLUF: TARGETING CONTINUES IN UKRAINE. WAR IN MIDDLE EAST REMAINS AS BEFORE. ANOTHER COMMUNICATIONS INCIDENT REPORTED INVOLVING MARINE ONE IN WASHINGTON D.C.//
+//BLUF: WAR REIGNITES IN THE MIDDLE EAST AFTER AMERICAN STRIKES REPORTED IN IRAN. RETALIATORY STRIKES REPORTED IN JORDAN AND THE UAE.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-Europe: Following yesterday's assassination in St. Petersburg, long-range Russian and Ukrainian drone attacks continued. Several more warehouses and logistical hubs were hit within Ukraine, and this morning Ukrainian forces reportedly struck a Tu-95 Bear H parked on the apron at Engels Airbase in Saratov.
+Middle East: Over the weekend, the war resumed it's more kinetic phase as the United States carried out strikes on Iran. Larak Island was the primary target, with strikes taking place to target Iranian rocket launchers that were preparing to launch rockets suspected of carrying sea mines. Locals report that two launchers were struck, killing two soldiers.
 
-United Kingdom: This morning a large fire was reported at an industrial warehouse in London, near Wembley Stadium. Local authorities state that this facility was a waste processing facility located next to an Amazon warehouse (which was evacuated due to the fire). The cause of the fire is not known at this time.
-
--HomeFront-
-
-Washington D.C. - This morning an incident was reported aboard the Presidential MARINE ONE helicopter, while President Trump was onboard. The tower at Reagan National experienced communications issues with MARINE ONE, which involved radio transmissions being dropped between the helicopter and the tower.
-
-Analyst Comment: As the protection and transportation of the President is a zero-fail mission, what would ordinarily be a minor issue becomes a mission-critical failure. Ordinarily, today's incident would be a minor issue for any other aircraft, as it's not uncommon for minor comms issues to be present within the world of aviation and not being able to contact the tower for a few seconds is hardly groundbreaking news in most other circumstances. However, little mistakes become big ones in D.C, especially considering the wider implications.
-
-If the most important aircraft in the country has to relay comms to the tower via other aircraft, that is a national security concern. If this were an isolated incident it would be nothing more than something to mention at a turnover briefing for the day, but Washington Tower has a long history of major incidents: From fistfights in tower last year, to the deaths of 67x people during the AA5342 disaster, and even the incidents involving MARINE ONE just a few weeks ago, the management of the personnel and communications systems at Ronald Reagan Washington National Airport have been persistent issues that present very real risks to the National Capitol Region.
+In retaliation, Iran launched multiple ballistic missiles, all targeting US bases in the region. Jordan and the UAE reported strikes targeting airbases used by the United States, but the success rate is unknown. Initial imagery obtained via the Sentinel-2 sensors indicates a hanger and a barracks building might have been hit at Muwwafaq al Salti. Footage provided by locals indicates that at least two Iranian ballistic missiles were successfully intercepted, but it's likely that at least several got through missile defenses to strike at least two bases in Jordan.
 
 -----END TEARLINE-----
 
-Analyst Comments: In the Middle East, the situation remains much the same as before, with a brief lull in the targeting efforts being undertaken overnight by Iran. This lull came to an end this afternoon, after another vessel was targeted in the Strait of Hormuz, with unknown success. On the American side, there's lots of rumor and talk behind the scenes regarding the overall strategic plan, most of which is only a loose indicator of how the war is going. This morning Axios leaked details pertaining to several Foreign Ministers around the Middle East being told by SECSTATE Marco Rubio, that the US is probably not going to resume kinetic targeting until at least after the midterms. While the sourcing of this is dubious at best, this does make sense based on how things have gone over the past month. Months ago, the war lasting until next year (at minimum) sounded laughably unlikely, but at this stage, this timeline seems realistic. The one determining factor is the underlying energy crisis, and what happens when a global maritime choke point remains in the conflict zone for this long. Uncharted territory is ahead, and in terms of the tactical situation on the ground, no indicators are present that suggest the conflict will reach a point of conclusion anytime soon.
+Analyst Comments: Once more into the breach, so it seems. The grand question now is whether or not the weekend strikes will continue to escalate. The White House has stated that the US will respond to Iran's counterattack with a counter-counterattack, and as it stands, more targeting is likely. More broadly, the weekend targeting confirms several different lingering theories. For one, diplomacy is completely off of the table for now. Many people theorized that the past month of essentially very little fighting was a prelude to an exit strategy. However, conducting strikes during a lull in the fighting is not indicative of any kind of diplomatic intent to end the war.
+
+Secondly, conducting strikes targeting sea mine launchers also directly confirms that Iran has this capability. For years, it has been widely known that Iran has the ability to lay mines in the Strait via rockets (without ever sending boats out), but how effective they are at such has been hotly debated over the years. The fact that the US hit these launcher sites confirms that this capability and threat is genuine enough to warrant kinetic action.
+
+Also of note, President Trump posted two AI-generated videos on his Truth Social account last night, depicting the United States blowing up Kharg Island. As of this morning, Kharg Island (which is at the opposite end of the Gulf) has not been targeted during this latest round of strikes. The intent of posting AI-generated videos regarding kinetic targeting is not clear. This could be a classically flamboyant Trump post, or it could be intended to deceive people who might not understand that they are not real videos. Even more concerningly, President Trump himself might believe it to be a genuine video (or an AI approximation of a real-world event). One might think that this would be preposterous (because the videos are obviously AI), but the precedent has already been set in Congress....AI-generated content that claims to be real footage has already been used by members of Congress on the House floor several times over the past year. AI models are already blurring the line between fiction and reality, and now the line is blurred even further, if the White House is going to start providing AI-generated content of airstrikes that never happened. When it comes to corroborating what has been targeted via other governmental agencies, the picture is not so clear either: The CENTCOM social media page on X did not disclose the fact that strikes took place. However, CENTCOM did issue one of their infamous "fact check" posts, which indirectly confirms that they did conduct strikes in Iran (though they did not confirm the exact location of those strikes). Where we go from here is anyone's guess, but the truth of what's going on on the ground is getting harder to discern.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
