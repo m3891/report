@@ -1,29 +1,27 @@
 The Wire
 ========
 
-//The Wire//2300Z September 4, 2026//
+//The Wire//2000Z September 3, 2026//
 //ROUTINE//
-//BLUF: ENERGY CRISIS CONTINUES TO WORSEN AS GAS PRICES REACH ALL-TIME HIGHS. ANOTHER SABOTAGE ATTACK REPORTED IN GERMANY. RUSSIA AND UKRAINE CONTINUE TO ESCALATE TARGETING EFFORTS. IRANIAN TARGETING CONTINUES IN THE MIDDLE EAST.//
+//BLUF: SABOTAGE ATTACKS CONTINUE IN GERMANY AND POLAND. IRANIAN ATTACKS CONTINUE IN THE MIDDLE EAST. MASS SHOOTING REPORTED AT RESIDENTIAL BUILDING IN MINNEAPOLIS.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-Middle East: This afternoon Iran conducted more strikes around the region, allegedly targeting American bases in Jordan. The United States has disputed these specific launches, however locals have provided videos of the missiles in the air. Battle damage reports are expected by morning, when new satellite imagery products become available.
+Middle East: Overnight, Iran conducted another round of drone and missile strikes, mostly targeting American bases in Kuwait. Satellite imagery of the American bases in Jordan also indicate that some Iranian missiles evaded defenses to strike their targets, but full battle damage assessments will take some time, as high resolution imagery is not yet available. This afternoon, reports of more Iranian missile launches have emerged, and the situation continues to develop by the hour.
 
-Yemen: Clashes between the Houthis and Saudi-backed Yemeni forces escalated as both sides conducted strikes on each other overnight. Fighting has being reported in western regions of the country and several missile launches have been reported throughout the night, though most missiles appear to have targeted locations inside Yemen.
+Germany: This morning the sabotage attacks continued throughout the country. Two Bulgarian nationals were arrested in Munich after throwing a Molotov incendiary device at the headquarters for Rohde and Schwarz, a major defense contractor of communications and radar equipment.
 
-Germany: Yesterday evening another possible sabotage attack on an electrical substation was reported in Dormagen-Gohr. Local authorities responded to reports of at least one rocket launcher being emplaced near a substation, complete with copper wire and a timer mechanism. Separately, German police in Cologne stated that they received a letter from Vulkangruppe claiming credit for at least one of the attacks this week.
+Poland: Local authorities have announced that they are treating an industrial fire that tool place over the weekend as a potential act of state-sponsored terrorism. The WB Electronics factory in Skarzysko-Kamienna reported a fire at their facility a few days ago, which is assessed by Polish authorities to be an act of sabotage caried out by foreign intelligence services.
 
-Analyst Comment: Vulkangruppe is an infamous ecoterrorist organization that is well known for conducting sabotage attacks on critical infrastructure around the country. Whether or not this group actually is the culprit, will be a part of the investigation. Homemade rocket launchers trailing copper wire set up on timers is a level of sophistication that would be a big leap from what Vulkangruppe has conducted in the past, so they might just be taking credit for attacks that were committed by somebody else. Nevertheless, if it is ecoterrorists trying to conduct attacks, these incidents are taking place at a time of maximum pressure within Germany.
+-HomeFront-
 
-Russia/Ukraine: Attacks continue to escalate by both sides, with Ukraine intensifying attacks on the Russian port of Sochi. Ukrainian drone boats carried out strikes targeting Russian shipping in the port, with at least one boat being intercepted. In the city of Adler to the south, Ukrainian drones successfully struck a Russian SAM system near the local airport.
+Minnesota: Yesterday evening a shooting was reported at an apartment building, which resulted in multiple fatalities. Local authorities initially responded to reports of shots fired on an upper floor of Loring Towers, a Section 8 residential housing facility. Upon arrival, police were immediately engaged with small arms by at least one shooter. A total of three fatalities were reported as a result of the engagement, including the shooter and two unidentified individuals. Three officers were also severely wounded during the engagement. The suspect has been identified as Carlton Johnson II, who had a long history of threatening residents in this building with firearms.
 
 -----END TEARLINE-----
 
-Analyst Comments: On the energy crisis front, the situation continues to deteriorate further. This morning the national average for diesel climbed to the all-time high of $5.85 per gallon. During the month of August, the national average for gasoline reached a high point never before seen in history, with the national average remaining over $4.00 per gallon every single day of the month. Spikes in gas prices due to sporadic targeting and market speculation notwithstanding, the energy crisis has crept into more serious territory as the war in the Middle East doesn't just continue, but continues to escalate.
-
-Over the past few days, the White House has touted the recent deal with Venezuela to take control of a portion of their oil industry, and provide access to 17 different oil fields, which are assessed to contain roughly 65 million barrels of crude. The main concern, is that it will take many years to actually get that oil out of the ground. Right now, Venezuela is assessed to be providing an absolute maximum of 1.25 million barrels of crude per day, all total. Due to the earthquake and the recent political upheaval in the wake of the capture of Maduro, investments in Venezuela have been rather tepid, with most American oil companies not being enthusiastic about ramping up operations during a time of uncertainly. Just from purely a numbers game, if Venezuela were to increase their output by *ten times* they would be able to make up a little more than *half* of the oil that transited through the Strait of Hormuz each day, before the war. At this point, every single barrel that can be reliably provided each day is valued greatly, but it's going to be several more years before Venezuela is able to even put a dent in the daily American demand for oil.
+Analyst Comments: The shadow war throughout Europe has remained hot this week, and very few people seem to realize the severity of the situation. To be sure, there is a solid argument for thinking that at least some of the attacks in Europe might be false-flag attacks intended to draw the global west further into the war. However, just because an incident might be a false-flag attack, doesn't mean it isn't a genuine threat....At the end of the day, if you step on an IED while walking your dog in the German countryside, it doesn't matter who planted it there, the result to the victim is the same. Right now, the lines are blurred to the point that attributing cause or culprit is nearly impossible for most attacks, but the explosions continue nonetheless. Daily attacks/incidents in Germany (and now Poland) are probably going to continue for the time being, and regardless of who's actually behind the attacks.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
