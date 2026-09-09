@@ -1,21 +1,33 @@
 The Wire
 ========
 
-//The Wire//1300Z September 8, 2026//
+//The Wire//1300Z September 9, 2026//
 //ROUTINE//
-//BLUF: WAR REIGNITES BETWEEN SAUDI ARABIA AND THE HOUTHIS, WITH SEVERAL STRIKES REPORTED ON SAUDI POWER PLANTS AND REFINERIES OVERNIGHT. SABOTAGE ATTACKS ON SUBSTATIONS IN GERMANY CONTINUE.//
+//BLUF: INTENSE FIGHTING REPORTED IN MIDDLE EAST. IRAN CAPTURES HIGHLY CLASSIFIED AMERICAN DRONE SUBMARINE. UNITED STATES TARGETS 5X MORE TANKERS IN GULF.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-Saudi Arabia: Overnight, major escalations occurred between the Saudis and the Houthis, after a few days of fighting snowballed into a wider conflict. After several days of staging forces near Yemeni government sites, the Houthis caught wind of the Saudis preparing for a larger campaign, prompting the Houthis to launch major strikes overnight. The Jazan Refinery was struck again, with abnormal thermal hotspots being observed (which are not normal gas flaring) at much of the facility. To the south, the entire Jazan Bulk Plant remains on fire, and there is a large thermal hotspot near the airport. To the north, the Abha Bulk Plant was hit and remains on fire, and the Asir Power Plant was struck as well.
+Middle East: Major escalations were reported around the region, as the fighting on both sides has intensified back to levels not seen since the height of the war in April. From the United States, attacks on merchant shipping have continued. Overnight, a total of 5x civilian tanker vessels were targeted, some of which were sunk. As of this morning, the full list of ships struck by the United States since yesterday evening is as follows:
 
-Germany: More sabotage attacks were reported over the weekend, with more rocket launch sites being located near the Weisweiler Power Plant, the same power plant where the initial rocket tubes were found last week. Separately, German authorities announced the arrest of one suspect who they claim is the only individual suspected of being linked to the series of sabotage attacks on power infrastructure. The suspect has not been identified, and authorities are still investigating whether or not the suspect acted alone.
+M/T *RIESCO* (IMO: 9251822) - Sunk, Gulf of Oman
+M/T *DERYA* (IMO: 9569700) - Disabled, Kharg Island
+M/T *HORIZON 1* (IMO: 9130456) - Disabled
+M/T *KAVIZ* (IMO: 9282041) - Disabled
+M/T *CHARMINAR* (IMO: 9318022) - Disabled
+
+From the Iranian side, attacks also escalated sharply overnight, targeting merchant shipping and American bases around the region. These attacks occurred in multiple waves, with the initial waves of missiles being intended to soak up missile interceptors before the most significant second and third waves. As a result of this coordination, substantial missile strikes were reported at Muwaffaq al Salti Airbase, many of which were confirmed to have hit the base. Video evidence from locals confirms that a total of 4x ballistic missile warheads impacted the base. Prince Hassan Airbase was also targeted in a similar manner.
+
+Aside from the targeting of American bases, Iran has claimed to have attacked over 20x commercial vessels in the region overnight. The IRGC-N also claims to have targeted two American Destroyers, the USS *JOHN PAUL JONES* (DDG-53) and the USS *DELBERT D. BLACK* (DDG-119). CENTCOM denies that either vessel was hit, but did confirm that evasive action was required, and the United States struck more civilian ships in retaliation.
+
+Within the Gulf, Iranian forces also posted photo and video evidence confirming that Iran has captured a highly classified Autonomous Underwater Vehicle (AUV). One American Dive-LD drone submarine was captured intact by Iran, which was likely being used by the United States to conduct highly precise scans of the seafloor throughout the region, probably in conjunction with mine clearance operations in the Gulf. This platform is one of the most capable submersibles used by the U.S. Navy, and was originally unveiled by Anduril last year.
 
 -----END TEARLINE-----
 
-Analyst Comments: The Houthi strikes in Saudi Arabia were no-joke, and these are the largest attacks conducted by the Houthis in a long time (possible ever). As a result it is almost certain that the Saudis will have to shut down a significant portion of their oil production due to the damage from the strikes. This will compound the energy crisis, and possibly erase much of the mitigating efforts that have been undertaken to use the Saudi pipelines to bypass the Strait of Hormuz. As a reminder, in July Saudi west coast exports dropped below 1 million bbl/day (a fraction of their rated output), which was caused by a combination of export bottlenecks at the ports, and the Houthi strikes causing several major facilities to shut down. The Jazan refinery itself has minimal effect on the export market (it mostly serves domestic Saudi markets), but this many strikes targeting multiple facilities...to include power plants...is a sharp escalation that is going to have wider impact than might be noticeable at first. Since the Yemeni Civil War appears to be ramping up again, this is another front to be concerned about, since the Houthis have confirmed that they can hit the oil terminals at Yanbu and if they so desire, bring Saudi exports nearly to zero.
+Analyst Comments: A full-blown return to the war is probably already underway throughout the Middle East, and all indicators support a widening and/or intensification of the fighting (at least for the time being, as the Tanker War continues). Last night's targeting efforts on all sides were the most significant seen since the height of the war a few months ago. During the attacks in Jordan, the Iranians appear to have used cluster munitions, though the type is not known (these could have been dozens of bomblets, or these could have been inert devices intended to soak up interceptor missiles so that the actual munition penetrates defenses). The last time this type of munition was used was during the targeting of Israeli military bases during the opening days of the war.
+
+Based on the footage observed overnight, dozens of PAC-2 missiles were spent attempting to intercept Iranian missiles, with just one night of fighting probably expending more munitions than have been used over the past 2-3 months. Locals report that by the time the final waves of Iranian missiles arrived in Jordan, zero interceptors were even launched. As a reminder, based on the recent reports of munitions stockpiles, the US has largely expended most of the newer PAC-3 missiles for the Patriot system, and have been down to mostly the older PAC-2 missiles for several months. The PAC-2 missile is physically larger than the PAC-3, so each PAC-2 battery can hold fewer missiles than one equipped with PAC-3 canisters. The standard Launching Station holds four missile canisters, which can hold either 4x PAC-2 missiles...or 16x PAC-3 CRI missiles. This means that a Patriot system that has been depleted of the PAC-3 missiles, has to mostly rely on a mix of PAC-2 missiles, which reduces the overall total number of interceptors that could be launched during an engagement. This major logistical detail appears to have worked in Iran's favor during last night's attacks, as locals report that over one hundred PAC-2/3 missiles were fired to intercept the dozens of Iranian missiles that targeted American bases throughout Jordan.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
