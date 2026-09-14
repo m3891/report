@@ -1,35 +1,33 @@
 The Wire
 ========
 
-//The Wire//1500Z September 11, 2026//
+//The Wire//1800Z September 14, 2026//
 //ROUTINE//
-//BLUF: HOUTHIS STRIKE SAUDI EAST-WEST PIPELINE IN MAJOR MISSILE BARRAGE OVERNIGHT. HOUTHIS ALSO EXERT CONTROL OVER BAB EL MANDEB, AFTER CAPTURING ISLANDS THIS MORNING.//
+//BLUF: DAMAGE TO SAUDI PIPELINE WORSE THAN INITIALLY SUSPECTED. SAUDI FORCES PRESENT INDICATIONS OF MILITARY ESCALATION IN YEMEN, STRIKES IN SANAA REPORTED. COSTCO BEGINS RATIONING OF KIRKLAND BRAND MOTOR OIL.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-Saudi Arabia: Overnight Houthi forces conducted major missile and drone strikes on the Saudi East-West Pipeline. Local sources claim that the pipeline was struck in 8x different places, which resulted in major damage to the pumping and control stations along the entire pipeline network. A smoke plume roughly 80km long was observed on satellite imagery, along with a substantial column of smoke being observed from the ground.
+Saudi Arabia: Over the weekend the scale of the damage to Saudi petroleum facilities has become more clear, with high resolution satellite imagery confirming catastrophic damage at several refineries and pumping stations. To the south, the refineries close to Yemen suffered the most damage. Farther north, the East-West pipeline is also much more heavily damaged than disclosed at first, and early estimates indicate a recovery time of several weeks at minimum.
 
-Analyst Comment: While the Saudis have not explicitly confirmed this, it is almost certain that this pipeline network is offline, and will be so for some time. These two pipelines were the main avenue of bypassing the Strait of Hormuz, so if the Houthis took them offline, this will have an immediate and devastating impact to the global energy crisis.
-
-Yemen: Throughout the evening, the Houthis continued their advance, seizing more islands in the southern Red Sea and Bab el Mandeb Strait. Perim Island (also known as Mayyun Island) fell to Houthi control overnight, further cementing Houthi control of the entire coastline along the Red Sea.
-
-Analyst Comment: The seizure of these islands means that the Houthis don't have to rely on drones anymore...they can hit passing ships with coastal artillery and smaller weapons systems.
-
-Europe: Ukrainian attacks on Russia oil infrastructure continue, with major strikes being reported at the Saratov Refinery overnight. A nearby Ozon warehouse was also struck during the attack, and remained on fire throughout the morning.
+Overnight, Saudi forces retaliated by conducting strikes in Sanaa. Locals report Houthi positions being struck in the Bir Zehr neighborhood near the airport, along with other sites around the capital city.
 
 -HomeFront-
 
-Washington D.C. - Mainstream media has reported that Saudi Crown Prince Mohamad bin Salman (MBS) called President Trump twice yesterday in order to urge the United States to intervene and coordinate strikes on Houthi positions. According to witnesses (which cannot be corroborated), President Trump declined to get involved with the Houthis again, however CENTCOM Commander Admiral Brad Cooper flew to Riyadh to conduct emergency coordination efforts.
+Washington D.C. - While taking questions onboard Air Force One, President Trump was asked about Flock cameras and similar technologies. During his response, he stated that he "likes" the surveillance sensors.
 
-New York: This morning remembrance events began in Manhattan, as the world reflects on the 25th Anniversary of the 9/11 terror attacks. Vice President Vance is expected to speak at the National September 11 Memorial, and various other officials are expected to make appearances at the various memorial sites throughout the day.
+Analyst Comment: This is the first concrete statement indicating the current administration's stance on a major issue that has swept the nation, in the lead up to the midterms.
+
+USA: Around the nation, the impacts of the energy crisis are beginning to manifest with random shortages. Costco announced that they would be rationing purchases of motor oil, limiting purchases of their 10-quart full synthetic motor oil to two units per person, per week.
+
+Analyst Comment: Even since the early days of the war, random shortages of petroleum products have quietly been increasing in severity. Many manufacturers have changed blends (of synthetic products), and many commercial vendors have had a hard time keeping certain weights of motor oil in stock. Now that a major retailer at the consumer level is impacted, other vendors will probably follow suit.
 
 -----END TEARLINE-----
 
-Analyst Comments: Due to the events in the Middle East over the past 48 hours, energy prices are likely to climb higher and the immediate concerns are purely a logistical numbers game. Before the war, 20 million barrels of crude transited through the Strait of Hormuz. Last week, we found out that on average, the United States has only been able to recover half of that capability during the "ceasefire" (under the best possible conditions). If the Houthis managed to take out the Saudi East-West Pipeline for a long time, that would mean the loss of the main pipeline bypassing the Strait, and therefore the loss of 5 million barrels per day from the global market. Since traffic through the Strait itself has been minimal over the past few days due to Iranian and American targeting, this is going to snowball into a much more serious problem very soon.
+Analyst Comments: Within Saudi Arabia, indications and warnings are growing suggesting a major Saudi campaign against the Houthis is developing. Troop movement and various armored columns have been observed along the Saudi border regions with Yemen since the United States declined to become involved in the Saudi/Houthi conflict. It's too soon to tell if the Saudis are going to launch a proper ground invasion; right now they are mostly just staging and conducting airstrikes in Sanaa.
 
-On the retail side of the equation, prices for gasoline and diesel spiked yesterday afternoon throughout the United States. As diesel has been experiencing a global shortage (and thus was more strained already), several new records were set overnight. According to GasBuddy, a total of 28x states reported all-time-high diesel prices topping $6.00 per gallon. This brought the national average for diesel over $6.00 for the first time in history. At the more extreme ends of the spectrum, several gas stations in California reported maxing out their displays for diesel. The price was stuck at $9.999 simply due to the digital display on the gas pump not having the space for an extra digit, which would have brought the price into double-digit territory. As the scale of the attacks on the Saudi pipeline become known over the next few days, the impact to the global energy crisis will become more clear, but as it stands, the events in the Middle East are continuing to develop by the hour, with new records being reached every day.
+However, the United States is not fully hands-off with this conflict either; last night planewatchers observed a sharp increase in cargo flights to Camp Lemonnier...which is the central hub for most American activities in the region. This base, is also extremely close to Yemen, and well within range of even short range munitions. As the crow flies, less than a hundred miles of airspace separate this base from the Houthi missile launch sites along Yemen's Red Sea coastline. As a result, it is very likely that the United States is planning for escalations in the region, which could result in very substantial American positions being targeted. Since the Saudis have begun bombing Sanaa once again, Houthi targeting will continue to hit Saudi petroleum industry, but if the US is to become roped into this more directly, it will probably involve the American presence in Djbouti.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
