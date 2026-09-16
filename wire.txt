@@ -1,33 +1,43 @@
 The Wire
 ========
 
-//The Wire//1800Z September 14, 2026//
+//The Wire//2000Z September 15, 2026//
 //ROUTINE//
-//BLUF: DAMAGE TO SAUDI PIPELINE WORSE THAN INITIALLY SUSPECTED. SAUDI FORCES PRESENT INDICATIONS OF MILITARY ESCALATION IN YEMEN, STRIKES IN SANAA REPORTED. COSTCO BEGINS RATIONING OF KIRKLAND BRAND MOTOR OIL.//
+//BLUF: SABOTAGE ATTACKS STRIKE DUTCH RAIL NETWORK. JOLIET REFINERY OFFLINE DUE TO UNPLANNED POWER OUTAGE. SAUDI ARABIA ANNOUNCES COMPLETE HALT TO EXPORT OPERATIONS IN YANBU, FURTHER SEPTEMBER CONTRACTS FOR OIL WILL NOT BE DELIVERED. LIBYAN OIL FIELDS SHUT DOWN DUE TO WORKER PROTESTS.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-Saudi Arabia: Over the weekend the scale of the damage to Saudi petroleum facilities has become more clear, with high resolution satellite imagery confirming catastrophic damage at several refineries and pumping stations. To the south, the refineries close to Yemen suffered the most damage. Farther north, the East-West pipeline is also much more heavily damaged than disclosed at first, and early estimates indicate a recovery time of several weeks at minimum.
+Russia: Yesterday evening the conflict escalated, as Ukraine continued to target Russian petroleum infrastructure. The Syzran Refinery was struck by Ukrainian drones, which heavily damaged the facility.
 
-Overnight, Saudi forces retaliated by conducting strikes in Sanaa. Locals report Houthi positions being struck in the Bir Zehr neighborhood near the airport, along with other sites around the capital city.
+Analyst Comment: This series of attacks was notable as they occurred immediately after President Trump announced that both sides had agreed to not target each other's energy infrastructure. About six hours after this ceasefire was announced, it was broken by Ukraine's attack on this refinery. As of this report, Russia had not retaliated yet.
+
+Lithuania: NATO fighter aircraft were scrambled to intercept an unidentified drone within Lithuanian airspace. The drone, which Lithuanian officials claim was Russian, originated from Belarussian airspace, and was shot down near the region of Kaunas.
+
+Netherlands: Early this morning a series of sabotage incidents were noted throughout the nation's rail network. Malign actors located all around the country placed metal pipes across the tracks at more than 20x locations. These pipes contacted both rails, tripping the sensors which register train movement on a particular section of track. This prompted automated systems and network operators to shut down much of the rail lines around the country, while authorities inspected the tracks.
+
+Analyst Comment: As discovered by ecoterrorists within the United States years ago, this is an effective way to shut down a rail line, because it tricks the automated sensors along the line into thinking that a train is on the track. When replicated at dozens of locations along a national rail network, the entire country can be effectively shut down without any explosives or kinetic attacks being used. No word yet on who caused this specific attack, but it does fit the historical trend of various ecoterrorist groups, which have used similar tactics over the years.
+
+Libya: This morning, Libyan officials announced the shut down of most of their oil fields, after the security guards at their main oil fields have begun protests related to pay issues. The Petroleum Facilities Guard, a quasi-militia force that has provided security for the oil fields since the collapse of the Gaddafi government years ago, has essentially taken the oil fields hostage, in order to demand higher pay for their security forces.
+
+Analyst Comment: For the context of how much this matters, Libya has been exporting a little more than a million barrels of oil per day, roughly 85% of which gets sold directly to Europe. By comparison, Venezuela exports about the same amount. As such, security guards taking over random oil fields in northern Africa has effectively canceled out any perceived benefit that the capture of Venezuelan oil has made to the global oil markets.
+
+Middle East: Overnight targeting between the Houthis and Saudi Arabia resulted in more Saudi oil facilities being struck. Combined with the attacks over the weekend, a total of three major pumping stations along the East-West Pipeline have been completely destroyed, and several other larger refineries have been hit hard by Houthi missiles and drones. The Abha Bulk Plant was struck and remains on fire as of this afternoon, and facilities continue to be taken offline due to the constant exchange of fire between the Saudis and Houthis.
 
 -HomeFront-
 
-Washington D.C. - While taking questions onboard Air Force One, President Trump was asked about Flock cameras and similar technologies. During his response, he stated that he "likes" the surveillance sensors.
+Washington D.C. - This morning Senator Mitch McConnell made his first public appearance since his illness struck months ago, with Capitol Police escorting him from his residence to the Capitol. The media was present as Sen. McConnell was brought out of his residence, and the footage indicates that he was visibly not well or coherent as he was put inside the vehicle transporting him to the Capitol.
 
-Analyst Comment: This is the first concrete statement indicating the current administration's stance on a major issue that has swept the nation, in the lead up to the midterms.
-
-USA: Around the nation, the impacts of the energy crisis are beginning to manifest with random shortages. Costco announced that they would be rationing purchases of motor oil, limiting purchases of their 10-quart full synthetic motor oil to two units per person, per week.
-
-Analyst Comment: Even since the early days of the war, random shortages of petroleum products have quietly been increasing in severity. Many manufacturers have changed blends (of synthetic products), and many commercial vendors have had a hard time keeping certain weights of motor oil in stock. Now that a major retailer at the consumer level is impacted, other vendors will probably follow suit.
+Illinois: Yesterday evening the Joliet Refinery was shut down due to an undisclosed power outage caused the majority of hte facility to shut down. Emergency flaring was observed by locals as the entire refinery was shut down. As of this morning, the refinery is still offline, and is expected to be down until later this week.
 
 -----END TEARLINE-----
 
-Analyst Comments: Within Saudi Arabia, indications and warnings are growing suggesting a major Saudi campaign against the Houthis is developing. Troop movement and various armored columns have been observed along the Saudi border regions with Yemen since the United States declined to become involved in the Saudi/Houthi conflict. It's too soon to tell if the Saudis are going to launch a proper ground invasion; right now they are mostly just staging and conducting airstrikes in Sanaa.
+Analyst Comments: The shutdown of multiple major refineries around the world over the past 72 hours is exceptionally concerning, and will have serious impact the longer these refineries and pumping stations remain offline. As nearly all refineries in the U.S. have been redlining at their absolute maximum production level for months now, it is absolutely certain that mechanical issues will emerge; when we run American refineries this hard for this long....things break.
 
-However, the United States is not fully hands-off with this conflict either; last night planewatchers observed a sharp increase in cargo flights to Camp Lemonnier...which is the central hub for most American activities in the region. This base, is also extremely close to Yemen, and well within range of even short range munitions. As the crow flies, less than a hundred miles of airspace separate this base from the Houthi missile launch sites along Yemen's Red Sea coastline. As a result, it is very likely that the United States is planning for escalations in the region, which could result in very substantial American positions being targeted. Since the Saudis have begun bombing Sanaa once again, Houthi targeting will continue to hit Saudi petroleum industry, but if the US is to become roped into this more directly, it will probably involve the American presence in Djbouti.
+However, the other side of COIN is the passive understanding that right now, American refineries are ripe for malign action. This has been true throughout the war, but right now, any malign actor so interested can cause a lot of problems which are compounded by the effects of the war dragging on for so long. When refineries are being run at 100%, when the supply of crude is already spread thin, and when the Strategic Reserve is dwindling...there is less room for error, and the smallest effort from a malign actor can snowball and have more catastrophic effect than would be achieved during peacetime.
+
+This morning, Saudi Arabia announced that they will not be able to meet their September contracts for oil, due to the strikes on the East-West pipeline, and continued Houthi targeting. Oil onloading at Yanbu has completely shut down, and right now, the main way for the Saudis to export oil, would be to sneak tankers through the Strait of Hormuz, which they have been trying to do. However, with Iranian missiles continuing to fly, the global energy crisis is becoming more desperate by the hour. Libya is also offline for completely unrelated reasons, and now a major American refinery is offline too. All of these incidents would be very important even in isolation, but since they are taking place all at the same time, the negative affect to the global energy market becomes that much more significant.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
