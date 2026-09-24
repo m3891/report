@@ -1,43 +1,31 @@
 The Wire
 ========
 
-//The Wire//2300Z September 23, 2026//
+//The Wire//2300Z September 24, 2026//
 //ROUTINE//
-//BLUF: UNITED NATIONS GENERAL ASSEMBLY CONTINUES IN NEW YORK. AMERICAN SANCTIONS ON IRANIAN AIRLINES COME INTO EFFECT. COMMERCIAL VESSEL STRUCK IN STRAIT OF HORMUZ. RUSSIAN HELICOPTER BRIEFLY CROSSES POLISH BORDER, ESCALATING GROWING CONCERNS OF AIRSPACE INCURSIONS.//
+//BLUF: STABBING REPORTED AT POLISH MONASTERY. INFRASTRUCTURE ATTACKS CONTINUE IN EUROPE. MAJOR MISSILE STRIKES REPORTED IN KIEV. ENERGY CRISIS CONTINUES AS GAS AND DIESEL PRICES CONTINUE TO RISE.//
 
  -----BEGIN TEARLINE-----
  
 -International Events-
 
-United Kingdom: Immigration issues continue to develop, as channel boat crossings have escalated over the past few days. At least two inflatable boats made landfall in Kent overnight, prompting concerns as to why they were not intercepted and turned around before reaching land. The recent migration surge has resulted in widespread protests at port facilities throughout the country, which have also become more tense as authorities provide security for migration operations.
+Ukraine: Major missile strikes were reported in Kiev overnight. Several Iskander missiles struck targets around the city, targeting factories and various production facilities. Additionally, at least four different Zircon hypersonic missile strikes were reported, in addition to the short range ballistic missiles.
 
-Middle East: This morning a commercial vessel was struck in the Strait of Hormuz, which resulted in a major fire. The crew of the M/V *CAPE DAO* abandoned ship, after one crew member was killed and another wounded during the strike.
+Poland: Overnight, a sabotage attack was reported at a Starlink communications hub south of Warsaw. Unidentified assailants set a generator on fire, along with a power distribution hub on site. This site is owned and operated by Exatel (the state-owned telecoms company) and functioned as a ground control station for the Polish military's use of Starlink. This attack took place at roughly the same time as the heavy missile strikes in Ukraine and Deputy Prime Minister Krzysztof Gawkowski stated that the attack is being treated as an act of sabotage.
 
-Poland: Overnight one border incursion was reported near Braniewo, as a Russian helicopter from Kaliningrad flew south over the border. The helicopter flew about 300 meters into Polish airspace before returning to Kaliningrad less than a minute later. Poland scrambled fighters to intercept the aircraft, and ground forces were placed on alert in the border region.
+Also in Poland a stabbing attack was reported this morning at a Benedictine Abbey in the town of Jaroslaw. One assailant attacked two priests on the grounds of the monastery, after stealing a knife from the kitchen. During the fray, a total of three clergy and two laypeople were wounded. One of the Sisters of the abbey stated that Father Stanisław was killed during the attack, and Father Marek remains in critical condition. The assailant was detained at the scene and was not identified by name. However local authorities state that the attacker is a Ukrainian national.
 
-Analyst Comment: This was probably a classic probing incident. Russia has very obviously been carrying out reconnaissance to probe air defenses and test NATO's response, and this case was probably intended to spin up Polish responses, which they dutifully did. Russia probably doesn't need to do this, but these types of light border incursions have been common over the past few decades. This incident is not exactly earth-shattering, but it's also not unremarkable either, and mostly serves as yet another example of how the Cold War era escalations remain constant.
+Europe: Following the intense targeting campaign between Russia and Ukraine overnight several runaway drones were reported, striking third party nations around the region. This morning a drone struck a wooded area near the border in Romania, and another drone impacted a farmers field in Moldova.
 
--HomeFront-
+Middle East: Yesterday the Pentagon disclosed the death of another soldier related to the current war with Iran. Major Bianca Wilkerson died after suffering a non-combat related medical incident while onboard an aircraft bound for Saudi Arabia.
 
-Washington D.C. - As of this morning, American sanctions took effect to sanction nations which allow Iranian commercial aviation to operate within their country. These sanctions target nations that allow Iranian aircraft to land and refuel, with the United States threatening to cut off those nations from the US banking system.
-
-Analyst Comment: In response to the United States announcing a total ban on Iranian commercial air travel around the world, China has announced that they will continue to allow Iranian commercial aircraft to operate within their nation. This position was announced the same day that the White House welcomes President Xi for his first state visit in a decade.
-
-New York: The United Nations General Assembly continues as before. Various protest events took place outside the UN building throughout the day, including a few minor groups which blocked traffic for a short while. 
-
-Analyst Comment: Otherwise, an alleged meeting also took place between American and Iranian diplomats on the sidelines of the Assembly, which does not appear to have resulted in any sort of positive movement toward a peace agreement. Both sides appear to be heavily entrenched in their positions, with no real room for actual negotiations at the moment.
-
-Illinois: The Joliet Refinery is returning to normal operations, after being offline for the past ten days due to flooding which caused a power outage. Fuel prices are expected to drop by a few cents throughout the Midwest as this refinery begins to come back online, with gas prices expected to return to the national average after being elevated due to this refinery being offline.
+Analyst Comment: It is important to note the process for categorizing wartime casualties has changed somewhat since the start of the war. Operation EPIC FURY officially ended on May 5th. Ever since that date, all casualties have been logged under the general banner of "Overseas Operations", which includes US military casualty figures from all around the world, which are not cataloged under a different operation. As a result, it's challenging to determine exactly how casualties (both deaths and the wounded) are being counted.
 
 -----END TEARLINE-----
 
-Analyst Comments: Within northeastern Africa, trouble is brewing in Ethiopia. This beleaguered African nation has been host to civil unrest for many years, as tensions between government forces and rebels within the Tigray region have remained constant.
+Analyst Comments: Within the United States, the energy situation continues to deteriorate. The national average for gasoline remains around $4.50/gal and diesel has steadily risen to around $6.52/gal. Early this morning the Houthis announced that they had hit more Saudi infrastructure, which has not yet been confirmed by satellite imagery. Regardless, the report alone was enough to cause crude futures to rise further, back up to around $108/bbl.
 
-Northern Ethiopia has become inflamed following years of dispute over the administration of the Tigray region. In 2022, a tenuous peace settled in throughout Ethiopia and Eritrea, after Ethiopia and the Tigray People's Liberation Front (TPLF) reached a sort of truce regarding the administration of the Tigray region. Last month, the peace deal started unravelling, and as of the past few days, the TPLF is mobilizing once again. This time, a coalition of various militia groups has formed, comprised of the TPLF, the Amhara Fano ​National Movement, and a handful of others operating under a common banner. As of this morning, TPLF militants have captured the airports in Mekelle, Axum, and Shire, which are comparatively important airports throughout the region. Based on statements by the group, the TPLF is once again trying to overthrow the Ethiopian government and re-take power (as the TPLF ruled the country from the early 90's up until 2018).
-
-While it looks like yet another typical African conflict between the standard warlord types, this conflict is escalating at the worst possible time, when there is already tension in the region as brought on by the Houthis just across the Red Sea. Perhaps most importantly, is the complex web of relationships and alliances. As is extremely common throughout the region, when there's trouble in one African nation, the culprit is usually next door. And in this case, Ethiopia has accused Eritrea of funding the TPLF and trying to overthrow Ethiopia (accusations which Eritrea denies).
-
-How this develops over the next few weeks will be important to watch, simply due to the tensions that are already complicating the region. Nobody needs another war adjacent to a major international waterway, and if this gets worse there's no telling how more destabilization will affect the region. If the TPLF can keep their grievances centered on the Ethiopian government, and if the conflict stays within Ethiopia (as it has so far) this won't be that impactful to the world economy. But if this conflict becomes more regional in a few weeks, this could get ugly. Now that the TPLF has a coalition of other groups, they cover a wider swath of public sentiment, and have the potential to turn up the heat, and if they so choose...allow the pot to boil over.
+The White House has not yet announced a decision regarding a potential export ban on diesel, though at the moment most experts (and even Trump himself) are hesitant to implement any export ban, because it might cause more problems than it solves. Either way, a decision will have to be made soon, as diesel prices continue to slowly rise right at peak harvest season and fuel prices for farmers are going to be reflected in the price of food and goods very soon.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
