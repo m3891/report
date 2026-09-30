@@ -29,8 +29,15 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add *.txt
+          git add wire.txt
 
-          git diff --cached --quiet || git commit -m "Update Wire"
+          git diff --cached --quiet && exit 0
 
-          git push
+          git commit -m "Update Wire"
+
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+
+          exit 1
