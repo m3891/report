@@ -34,6 +34,13 @@ jobs:
 
           git add radar.gif
 
-          git diff --cached --quiet || git commit -m "Update Radar"
+          git diff --cached --quiet && exit 0
 
-          git push
+          git commit -m "Update Radar"
+
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+
+          exit 1
