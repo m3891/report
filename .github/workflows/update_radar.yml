@@ -3,7 +3,7 @@ name: Update Radar
 on:
   workflow_dispatch:
   schedule:
-    - cron: '35 */4 * * *'
+    - cron: '35 */2 * * *'
 
 permissions:
   contents: write
