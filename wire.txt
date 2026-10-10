@@ -1,35 +1,35 @@
 The Wire
 ========
 
-//The Wire//2300Z October 8, 2026//
+//The Wire//2300Z October 9, 2026//
 //ROUTINE//
-//BLUF: CIVIL DEFENSE EFFORTS CONTINUE AROUND EUROPE. RIOTS CONTINUE IN FRANCE. CONGRESSIONAL AGENCY CONFIRMS COMBAT LOSSES DURING IRAN WAR ARE DOUBLE WHAT PENTAGON CLAIMED. INDICATIONS GROWING CONCERNING POTENTIAL RESUMPTION OF STRIKES ON IRAN.//
+//BLUF: UNITED STATES LIFTS DIESEL EXPORT SANCTIONS ON RUSSIA IN ATTEMPT TO MITIGATE FUEL CRISIS. ESCALATIONS CONTINUE IN MIDDLE EAST. PROTESTS CONTINUE IN BELGIUM AND FRANCE.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-France: Nationwide riots have continued over the past 48 hours. various pockets of unrest remain constant in many major cities, with rioters burning debris in the street, as well as looting various commercial businesses whenever tensions become inflamed in local areas. Clashes with police have remained a constant, and arson events have continued in hundreds of cities around the nation.
+Belgium: Following the widespread riots in France, protests have transitioned into riots in Liège. As within France, nearly all of the riots are being conducted by second and third generation children of migrants, who have decided to engage in their own form of student riots in Belgium. Similar riots have remained constant in Brussels, with riot police being deployed throughout the city to handle unrest.
 
-Europe: Throughout the continent, Civil Defense plans continue, with various communities and groups conducting training exercises related to the homeland responses to a potential escalation of the war in Ukraine. Last week, citizens in the town of Grums, Sweden conducted what they claim is the first overnight exercise testing out the bunker under the Edsholms Retirement Home, which familiarized locals with the concepts of shelter life. Over the past two days, Latvia conducted a nationwide readiness drill, testing out various evacuation routes and plans in the event of a Russian ground invasion. Similar exercises have been observed in Romania, Lithuania, Poland, and most other NATO members in eastern Europe.
+Saudi Arabia: Battle damage assessments indicate that yesterday's missile attack at King Khalid International Airport in Riyadh resulted in the destruction of 1-3x commercial aircraft, and the possible damage of several more airframes. This morning more flight disruptions were reported in Riyadh, after another missile strike targeted the airport once again with unknown success.
 
-Middle East: Flight delays have been reported in Saudi Arabia, as Houthi targeting of critical infrastructure has remained constant. This morning, the airport in Riyadh was struck again by Houthi ballistic missiles, as the Houthis targeted the airports fuel point as well as parked aircraft. Videos from the ground confirm that several commercial airliners were destroyed during the strikes.
+To the east, large-scale emergency flaring was observed at the Abqaiq Processing Plant this morning, indicating that an unknown incident might have transpired. No missile or drone strikes were reported, but Saudi Arabia has quietly halted their drone/missile alerts so as to conceal strikes on refineries, so exactly what strikes have been conducted so far is not clear.
+
+Analyst Comment: This morning, the USS George H.W. Bush CSG departed port Phuket in Thailand, and was observed steaming south. If this battle group is intended to return to combat operations in the Middle East, this scheduling would put her back in the northern Arabian Sea within a week at the latest. 
 
 -HomeFront-
 
-Washington D.C. - Yesterday the DoJ announced the creation of a nationwide initiative, the American Tour Against Hate, which is being led by the DoJ Task Force to Combat Anti-Semitism. The first stop on this nationwide tour is scheduled to be in Southfield, Michigan next Wednesday.
+Gulf Coast: Overnight Hurricane Isaias strengthened into a Category 3 hurricane, picking up energy over the Gulf before it's expected landfall sometime tonight or tomorrow.
 
-Also in Washington, the Congressional Research Service released a report detailing the combat losses of equipment so far during the current war with Iran. This update indicates that previous data provided by the Pentagon was inaccurate, and that all total, 81x fixed wing and rotary wing aircraft have been lost or damaged during the war. Previously the Pentagon had claimed that 42x aircraft had been damaged or destroyed, when in reality the number was nearly double the figure stated in May.
+Analyst Comment: In addition to the standard concerns of flooding and storm damage, this year's hurricane season is complicated by the extremely fragile petroleum situation in the United States. During hurricanes, localized fuel shortages always take place, but as the war in Iran has stretched our refining and logistical capacity to a breaking point, the addition of Mother Nature into the mix can cause chaos.
 
-Gulf Coast: Overnight, Hurricane Isaias strengthened and is expected to make landfall as a Category 2 hurricane tomorrow night. Heavy rain is expected throughout much of the American southeast over the weekend, as the hurricane drives north into Florida, Alabama, and Tennessee.
+Washington D.C. - This afternoon, President Trump announced a trade deal with Russia, removing the sanctions on the sale of Russian diesel in western markets, much of which is expected to be imported within the United States. The Treasury Department issued a license for American companies to buy diesel from Russia, with President Trump stating that Russia is to provide 300,000 tons of diesel immediately, with an additional 500,000 tons next month, and a further shipment of 1,000,000 tons and an additional 3,000,000 tons later on.
 
 -----END TEARLINE-----
 
-Analyst Comments: Overnight, a blitz of mainstream media reports were published (originating from Axios) claiming that plans are being made by the Pentagon to reengage targeting within Iran. Specifically, some claims state that the targeting campaign is planned for the next two weeks, before the midterm elections, and could possibly include a wider range of targeting options than witnessed so far. Some claims have stated that the decision has already been made, whereas others state that options are only being considered at the moment.
+Analyst Comments: Whether or not the Russian diesel will help the global market is hard to determine at the moment; surely the lifting of sanctions on a major global fuel producer will alleviate some pressure in the short term. However the second and third order effects might be more of a problem later on, and this decision is a bit of a mixed bag that complicates the situation quite a bit.
 
- Right now, these reports are based on unconfirmed rumors and leaks from insiders, and therefore can't be given that much weight considering the information war that's been spun so far on all sides during this war. The timing of these plans does align with the general atmospherics surrounding the conflict in the region, but if this is the chosen course of action, a lot more resources are going to be needed in theater before any major American offensive is conducted.
-
-The USS George H.W. Bush CSG is off station conducting an R&R port call in Thailand, and the USS Theodore Roosevelt CSG has not yet arrived in CENTCOM's area of responsibility. As of three days ago, the most recent satellite imagery confirms that a lot of aircraft are still sitting on the ground at Al Udeid Airbase in Qatar, so those will have to be moved before any major targeting begins. Timeline wise, targeting kicking off again immediately after the midterms is supported by the forces currently in the region. At the shorter-end of the possible escalation window, strikes could take place as early as next week (if the midterms are not a concern), either by the United States or Israeli forces, if the decision is made to return to the war.
+All total, the 4.8 million tons of diesel equates to roughly 36 millions barrels...which is not much. Depending on the season, the US consumes about 4 million barrels of diesel each day, so if all of this diesel is directly imported into the United States, this would supply us for less than ten days. Additionally, Russia also has an export ban on diesel in effect right now, and it's not clear as to if the White House clarified that detail. Questions also remain as to whether or not Russia can even increase exports to fulfill this agreement, but the proof will be in the shipments that arrive in western ports over the next few months. Even though every little bit helps, by the stated numbers this won't help the fuel crisis by much.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
