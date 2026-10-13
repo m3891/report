@@ -1,35 +1,43 @@
 The Wire
 ========
 
-//The Wire//2300Z October 9, 2026//
+//The Wire//2000Z October 12, 2026//
 //ROUTINE//
-//BLUF: UNITED STATES LIFTS DIESEL EXPORT SANCTIONS ON RUSSIA IN ATTEMPT TO MITIGATE FUEL CRISIS. ESCALATIONS CONTINUE IN MIDDLE EAST. PROTESTS CONTINUE IN BELGIUM AND FRANCE.//
+//BLUF: HOUTHI STRIKES ON SAUDI INFRASTRUCTURE CONTINUE. PRESIDENT TRUMP ANNOUNCES ENERGY CEASEFIRE IN UKRAINE, IMPLEMENTATION PENDING BOTH SIDE'S AGREEMENT. ENERGY DEPARTMENT AUTHORIZES SPR RELEASE DUE TO DISRUPTIONS CAUSED BY HURRICANE.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Belgium: Following the widespread riots in France, protests have transitioned into riots in Liège. As within France, nearly all of the riots are being conducted by second and third generation children of migrants, who have decided to engage in their own form of student riots in Belgium. Similar riots have remained constant in Brussels, with riot police being deployed throughout the city to handle unrest.
+Ukraine: President Trump claimed that Russia and Ukraine have agreed to an "energy ceasefire", to halt the targeting of petroleum infrastructure. Neither Russia nor Ukraine have publicly verified this claim, and Ukraine has stated that any ceasefire depends on Russia to reciprocate.
 
-Saudi Arabia: Battle damage assessments indicate that yesterday's missile attack at King Khalid International Airport in Riyadh resulted in the destruction of 1-3x commercial aircraft, and the possible damage of several more airframes. This morning more flight disruptions were reported in Riyadh, after another missile strike targeted the airport once again with unknown success.
+Poland: This morning one arrest was made regarding what is being described as an assassination attempt on Prime Minister Donald Tusk, as well as the Polish Defense Minister. The nature of the alleged plot has not been disclosed, and the identity of the suspect has not yet been released.
 
-To the east, large-scale emergency flaring was observed at the Abqaiq Processing Plant this morning, indicating that an unknown incident might have transpired. No missile or drone strikes were reported, but Saudi Arabia has quietly halted their drone/missile alerts so as to conceal strikes on refineries, so exactly what strikes have been conducted so far is not clear.
+Analyst Comment: The details of this case are not clear, as authorities have not stated whether or not the assailant had taken physical action to conduct an attack. So far, all official statements have indicated that a 60-year-old man made threats against the Prime Minister on social media, but no physical act of violence (or preparation for such) has been noted so far.
 
-Analyst Comment: This morning, the USS George H.W. Bush CSG departed port Phuket in Thailand, and was observed steaming south. If this battle group is intended to return to combat operations in the Middle East, this scheduling would put her back in the northern Arabian Sea within a week at the latest. 
+Saudi Arabia: Over the weekend, Houthi targeting continued with more strikes on Saudi airports. On Saturday, Ansar Allah (the Houthis) launched one ballistic missile toward King Khalid International Airport, with the missile directly impacting Terminal 3. Video footage from the time of impact confirms that no warning was given, and the terminal was packed with travelers at the time of the strike. As a result, over 300x people were wounded and 12x people were killed instantly. The next day, Ansar Allah struck Terminal 4 in a similar manner.
+
+Saturday night, missile strikes were also reported at King Fahd International Airport in Dammam, with unknown success. Separately, a total of three gas and petroleum facilities were also struck, including the Ghawar Oil Fields, the Shedgum Gas Complex, and the Tanajib Oil and Gas Complex.
+
+Strait of Hormuz: Strikes on merchant shipping continued to escalate over the past 48 hours. Several ships were struck over the weekend with a variety of munitions, and strikes continued throughout the day within the Strait itself, as well as the Gulf of Oman.
+
+Analyst Comment: At this point, there are so many ships getting struck daily in the Strait of Hormuz that it's challenging to confirm each one. The UKMTO has mostly been withholding reporting for several days, and only releasing "time late" reports at least a day after a strike takes place. The United States did strike one tanker over the weekend, however Iran has been striking several ships per day for about two weeks.
 
 -HomeFront-
 
-Gulf Coast: Overnight Hurricane Isaias strengthened into a Category 3 hurricane, picking up energy over the Gulf before it's expected landfall sometime tonight or tomorrow.
+Gulf Coast: Due to the disruptions caused by the arrival of Hurricane Isaias, the Department of Energy authorized an emergency release of 4 million barrels of crude from the Strategic Petroleum Reserve (SPR). This latest release will take the SPR below 279 million barrels in the Reserve all total, minus whatever crude is drained as part of the 40 million barrel exchange that was authorized last week.
 
-Analyst Comment: In addition to the standard concerns of flooding and storm damage, this year's hurricane season is complicated by the extremely fragile petroleum situation in the United States. During hurricanes, localized fuel shortages always take place, but as the war in Iran has stretched our refining and logistical capacity to a breaking point, the addition of Mother Nature into the mix can cause chaos.
+Washington D.C. - Yesterday the Department of Homeland Security conducted a raid at the residence of Rep. Ilhan Omar as part of an ongoing investigation.
 
-Washington D.C. - This afternoon, President Trump announced a trade deal with Russia, removing the sanctions on the sale of Russian diesel in western markets, much of which is expected to be imported within the United States. The Treasury Department issued a license for American companies to buy diesel from Russia, with President Trump stating that Russia is to provide 300,000 tons of diesel immediately, with an additional 500,000 tons next month, and a further shipment of 1,000,000 tons and an additional 3,000,000 tons later on.
+Analyst Comment: No details or acknowledgement of the raid has been provided by officials regarding what this was about, however based on recent statements by the White House this could be related to the years-long allegations that she married her brother to secure his greencard status, or her own immigration status. More details are expected later on.
 
 -----END TEARLINE-----
 
-Analyst Comments: Whether or not the Russian diesel will help the global market is hard to determine at the moment; surely the lifting of sanctions on a major global fuel producer will alleviate some pressure in the short term. However the second and third order effects might be more of a problem later on, and this decision is a bit of a mixed bag that complicates the situation quite a bit.
+Analyst Comments: The escalation of targeting in Saudi Arabia is incredibly serious, and is starting to bring about long-term problems for the Kingdom. In short, Mohammad bin Salman (MBS) is in trouble, and if the Houthi targeting keeps up (and civilians keep getting killed), his inability to protect his nation is starting the threaten the throne itself. Missile strikes are bad enough, but ever since the East-West Pipeline was first taken offline by Houthi missiles a few weeks ago, the very GDP of the nation itself is at risk. Due to their main source of national income being mostly offline, two weeks ago Saudi Arabia requested a series of emergency loans totaling roughly $8 billion USD from various banks, just to keep the lights on in the Kingdom. The economic status of the House of Saud has always been a complicated affair, but generally speaking for a nation that is built upon a financial bedrock of crude....things aren't going so well.
 
-All total, the 4.8 million tons of diesel equates to roughly 36 millions barrels...which is not much. Depending on the season, the US consumes about 4 million barrels of diesel each day, so if all of this diesel is directly imported into the United States, this would supply us for less than ten days. Additionally, Russia also has an export ban on diesel in effect right now, and it's not clear as to if the White House clarified that detail. Questions also remain as to whether or not Russia can even increase exports to fulfill this agreement, but the proof will be in the shipments that arrive in western ports over the next few months. Even though every little bit helps, by the stated numbers this won't help the fuel crisis by much.
+Ansar Allah expanding their targeting efforts to include airports is (unfortunately for Saudi Arabia) a very effective means of both taking the fight to their enemy's capital city, but also in exerting some ability to impact airspace thousands of miles away from the front lines on the ground. This morning a Notice to Airmen (NOTAM) was issued for the majority of Saudi airspace, warning of continued fighting, and that the security situation presents risk to aircraft at all altitudes. Also, King Khalid airport remains fully closed for at least a week due to the airstrikes.
+
+Though the strikes around the region have been desensitizing after almost 8 months of war, the inability for Saudi Arabia to protect their own capital city is extremely significant for the political situation in the Kingdom. MBS has been unable to protect his nation's income source, and now is incapable of protecting the airport where his family keeps their private jets. If this keeps up, the House of Saud is going to face some very serious threats, not just from outside the nation...but from within. Throughout the war, MBS himself has reportedly been physically traveling between bunker facilities each night, and even though Saudi Arabia is not likely to experience regime change anytime soon, that possibility remains on the table as the tensions within government keep escalating with each Houthi missile.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
