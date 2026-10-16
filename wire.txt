@@ -1,33 +1,34 @@
 The Wire
 ========
 
-//The Wire//2300Z October 15, 2026//
+//The Wire//2300Z October 16, 2026//
 //ROUTINE//
-//BLUF: BANK OF AMERICA FINED FOR PLATFORMING CARTEL FINANCIAL NETWORKS. U.S. NAVAL ASSETS CONTINUE STAGING IN MIDDLE EAST, AS FUTURE STRIKE POTENTIAL LOOMS. STRIKES CONTINUE WITHIN BLACK SEA TARGETING MERCHANT VESSELS.//
+//BLUF: MASS SHOOTING HALTED IN OREGON BY PREPARED CITIZEN. PREPARATIONS CONTINUE AROUND MIDDLE EAST INDICATING RETURN TO MORE KINETIC WAR. CHINA DEMANDS CESSATION OF ISRAELI EXPANSION IN WEST BANK.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Russia: Overnight, Ukraine conducted an attack at Borisoglebsk Airfield, which resulted in the destruction of roughly 4-6x Russian fighter aircraft. Russia also continued sporadic strikes around Kiev as well as along the southern front with drone strikes targeting infrastructure in the vicinity of Odessa.
+Russia: Overnight, Ukraine struck the Ryazan refinery again, with locals observing fires at the facility throughout the evening. Otherwise, Russian targeting continued as before, with strikes being reported at various logistics depots and gas stations in central and western Ukraine.
 
-Black Sea: Two more commercial vessels were targeted in drone strikes overnight. The M/T *WINE TRADER* (IMO: 8808707) was struck by a drone off the coast of Romania, suffering damage to the bridge as a fire spread throughout the superstructure. A total of 8x crew members remain missing following this strike. Separately, the M/T *YARA J* (IMO: 9221803) was also struck in a similar manner in the same general area.
+Black Sea: Due to the rise in targeting of commercial vessels, Bulgaria has requested additional NATO assets to defend their airspace. Defense Minister Dimitar Stoyanov stated that Bulgaria has requested missile defense and anti-drone systems due to yesterday's targeting of two vessels off the coast of Bulgaria and Romania.
 
-Strait of Hormuz: Strikes on merchant vessels continue as before. The UKMTO issued two time-late reports of strikes on merchant vessels yesterday, at least one of which involved a large containership which was separate from the M/V *GFS PRIDE* (IMO: 9349045) that sank yesterday afternoon.
+Azerbaijan: The 7th Summit of the Conference on Interaction and Confidence-Building Measures in Asia continued in Baku, which is a geopolitical conference dedicated to managing international diplomacy and economic projects in Asia. This morning, Chinese Foreign Minister Wang Yi met with Israeli President Isaac Herzog, stating that Israel should stop their forced resettlement operations in the West Bank, and cease their territorial expansion ambitions in the region.
 
-Yemen: Last night, Houthi forces claimed to have engaged a Saudi Eurofighter Typhoon aircraft over Saada. Ansar Allah has not claimed to have shot down the aircraft, as the missile was a narrow-miss, and the pilot appears to have survived the detonation of the missile in close proximity to the aircraft.
+Analyst Comment: This statement is incredibly important as China very rarely intervenes (even with words) to address such activity; Chinese diplomats are legendarily coy and usually take half an hour to get through greetings over tea, so a blunt statement that is akin to an order being given is, in a word...surprising. In the context of the wider war being waged in the Middle East, this comparatively bold statement is probably accompanied by a subtle warning...if the Israelis continue pushing their luck in the diplomatic space, China will probably more directly supply their chief adversary, which is Iran (at the moment).
 
 -HomeFront-
 
-Washington D.C. - Yesterday, the Treasury Department's Financial Crimes Enforcement Network (FinCEN) levied a $1.2 billion fine on Bank of America, after the bank reportedly failed to enforce (or even report) money laundering efforts undertaken in violation of Office of Foreign Assets Control regulations.
+Oregon: Yesterday afternoon, a mass shooting was reported at an elementary school in Bend. At approximately 1:00pm local time, one gunman entered the Silver Rail Elementary School in Bend, and began shooting. Shortly after the shooting began, one armed and prepared citizen observed the shooter entering the school, and pursued the suspect into the facility. After making contact, the good Samaritan shot and killed the suspect. Nevertheless, three children and one teacher were killed during the engagement. The suspect has been identified as 16-year-old John J. Griffin, though no motive or manifesto has been released.
 
-Analyst Comment: The Treasury Department stated that this was in relation to a series of money laundering efforts undertaken by nationstate actors (such as China) and cartels in Central America. The exact nature of what kinds of networks were being run has not been disclosed, however Bank of America has already mostly written off the fine as a line item, and no one has been arrested for knowingly using Bank of America resources to help cartels funnel money throughout their organizations.
+Washington D.C. - This morning newly appointed White House Press Secretary Katie Zacharia is reportedly transitioning out of her role after conducting her first press briefing yesterday. Her resignation has not been formalized yet, however President Trump confirmed to the press pool that he recommended her to reconsider taking the job.
 
 -----END TEARLINE-----
 
-Analyst Comments: Over the past few days, the USS George H.W. Bush CSG arrived on station in the Arabian Sea after conducting a short R&R port call in Thailand. The USS Makin Island ARG and the USS Teddy Roosevelt CSG should also be arriving within a few days after crossing the Pacific. In terms of aviation assets, nothing major has been moving around for about a week. Cargo flights into the region are fairly routine, though the baseline for what is considered normal military aviation has changed somewhat since the war began. No heavy bombers have forward deployed yet, but considering how far the United States has withdrawn from Iranian missile range, this might not be an indicator of much. The Carrier Strike Groups are holding hundreds of miles from the Gulf of Oman, the US airbase in Erbil is no longer an asset after the drawdown of American forces in Iraq, and Al Udeid Airbase has a lot more aircraft staged on the parking aprons as of this morning (indicating that strikes are probably not imminent within the next 24 hours).
+Analyst Comment: As the usual weekend targeting window opens this afternoon, indications continue to mount regarding another round of American targeting within Iran. This afternoon, crude prices spiked upon the news that Iran has placed military forces on high alert, and that the Israelis have begun digging in and distributing portable concrete bunkers throughout Tel Aviv. 
+Right now, most theories center around the US trying to carry out a 3-day targeting campaign, which is alleged to conduct some form of bombing at Pickaxe Mountain.
 
-However some commercial satellite imagery companies have outright banned all imagery of Diego Garcia, the infamous base which has become one of the main logistical staging areas that is being used to continue the war. This ban on all paid future (and prior) satellite imagery is more strict than in the past as even during the height of the war, historic satellite imagery that had no intelligence value was still offered for sale. Now, all imagery has been scrubbed, at least from some American companies. The intense censorship crackdown due to OPSEC reasons is a fairly significant indicator that something is being planned which requires Operational Security in the first place.
+As of this afternoon, these tensions are mostly based on a lot of circumstantial evidence, so it's hard to pinpoint exactly what might happen (and when). Predicting the exact day and hour of a resumption of strikes is going to be nearly impossible, but more generally it's exceptionally likely that some form of targeting will be taking place within a few weeks, probably close to the midterm elections (either before or shortly after). In any case, weekends tend to be a window for more increased targeting potential all around, and the volatility within financial markets is another indicator of the uncertainty of how this war will continue.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
