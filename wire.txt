@@ -1,33 +1,35 @@
 The Wire
 ========
 
-//The Wire//2300Z November 4, 2026//
+//The Wire//1900Z November 5, 2026//
 //ROUTINE//
-//BLUF: AMERICAN MIDTERM ELECTIONS RESULT IN MAJOR VICTORIES FOR DEMOCRATS. CYBERATTACKS CONTINUE AROUND EUROPE, GROWING IN SCALE AND IMPACT. WARTIME PREPARATIONS CONTINUE AROUND MIDDLE EAST.//
+//BLUF: BOMB THREATS CONTINUE TO PLAGUE COMMERCIAL AVIATION IN EUROPE, NO THREATS DEEMED VIABLE. PRESIDENT OF PARAGUAY RESIGNS AFTER BANKING COLLAPSE THIS MORNING, DUE TO HIS TIES TO BANK'S LEADERSHIP.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Europe: Throughout the continent, cyberattacks on critical infrastructure have continued. So far, a total of 11x nations have reported being impacted by cyberattacks targeting Internet-of-Things (IoT) devices such as internet connected refrigeration sensors. As of this morning, these vulnerabilities have expanded expanded beyond the initial impacts to supermarkets. Overnight, refrigerators at several blood banks in France were reportedly breached, with staff members at three different facilities taking emergency actions to save Fresh Whole Blood (FWB) units from being compromised.
+Europe: This morning bomb threats onboard commercial aircraft throughout the continent continued. Over a dozen flights were diverted and evacuated due to these threats, which caused mass delays throughout the region. None of the threats were determined to be credible following security checks.
 
-Analyst Comment: Concerning the culprits of these attacks, no entity has been named. Romanian officials have offered up more details on the attacks in their country, stating that the attacks seemed amateurish in nature, and were probably not a nationstate actor. Considering the fallout of the PHPShell and other major cybersecurity incidents of the past few weeks, it's anyone's guess as to who's behind the recent wave of attacks.
+Analyst Comment: This morning's threat-spree is the second such incident this week. Malign actors know that bomb threats are cheap...every claim has to be investigated, wasting time and resources while authorities do their due diligence to clear the threats. Sending in a bunch of threats all at once can heavily affect the global flight schedules for the day, as many flights getting diverted at once amplifies the effect for malign actors.
+
+Paraguay: Overnight, a major banking collapse resulted in pandemonium throughout the nation. Ueno Bank, one of the largest banks in the country, collapsed this morning, leaving customers without access to their funds. A banking run was attempted this morning as customers rushed to pull their money out of ATMs or transfer their funds elsewhere, but most customers report their funds being frozen and unable to withdraw. A total of eight banking executives have been arrested, and many investigations are currently underway. This afternoon President Santiago Peña resigned and stepped down from office, due to his connections and previous business partnership with the owners of the now-collapsed Ueno Bank.
+
+Analyst Comment: The cause of this bank's collapse is fairly standard: bad investments resulted in them simply not having enough money to cover their losses, and their solvency ratio fell below the 50% legal limit. This situation is not unheard of in the third world, however this collapse has the potential to become a wider political issue as Ueno Bank's collapse has already led to the resignation of the President. Similarly, the head of Paraguay's Central Bank, previously was the President of Ueno back in 2023, so this is not the case of a small fly-by-night bank collapsing...this scandal has the potential to tank the Paraguayan economy. More details are expected in due time, as the scandal develops.
 
 -HomeFront-
 
-Mississippi: This morning an explosion was reported at the Loveland Products plant in Greenville, which shut down the factory for some time. This facility is produces herbicides and fertilizers for agricultural purposes. The cause of the blast is not known, and the exact chemicals involved in the incident have not yet been disclosed. The fire was contained after a few hours, and the investigation continues.
+Iowa: This morning a shooting was reported at a post office in Des Moines, which resulted in multiple casualties. Shortly before lunch today, one gunman began shooting in the vicinity of the front entrance to the post office on Second Avenue, which resulted in the wounding of three people. Nearby police responded immediately, and the shooter was detained.
 
-USA: Around the nation, yesterday's midterm elections resulted in major gains for the Democrats, with most elections being a clean sweep in their favor. Vote counts are still being tallied but overnight estimates strongly indicate the Republicans lost the House and the Senate, with several key Governor spots flipping blue as well. In Washington, President Trump canceled most of his public appearances for the next week, though this afternoon he made some unplanned remarks at the site of the Ballroom construction project.
+Analyst Comment: The details of this shooting are very minimal at the moment. Right now it's not clear as to if this was a deliberate targeting effort, or more of a routine criminal/domestic situation. The shooter's identity and motive have not yet been disclosed.
+
+Washington D.C. - This afternoon Harmeet Dhillon announced her intent to resign her position of DoJ Assistant Attorney General for Civil Rights. AG Blanche confirmed that he accepted her resignation, though her replacement has not yet been announced.
 
 -----END TEARLINE-----
 
-Analyst Comment: Now that the midterms are over, a major milestone is reached within the two major wars being fought overseas. Like it or not, the midterm election results were a major factor in planning the war in Iran, with the White House openly stating multiple times that the milestone of elections reflects a decision point. Now that the results are in, the situation can radically change. President Trump himself is no longer held back by the negative connotations in the polls, as the political situation can't get any worse now that the midterm damage is done. On the other hand, the massive defeat at the polls could cause a large strategic pivot away from the war to save his legacy.
+Analyst Comment: Around the world, the cyber realm continues to cause headaches following the exposure of major cybersecurity vulnerabilities over the past few weeks, coupled with the intensification of the war in Europe raising incentives on all sides to carry out cyberattacks. So far, most of the incidents reported since this can was peeled open are hard to attribute to one cause or class of malign actor. Most European nations are pointing the finger at Russia for many cyber incidents, which would be fair enough in a broad sense, except for the fact that many of the breaches this week have been due to security practices so poor that a smart child with ChatGPT could do it. Many of the refrigerator hacks have been due to the default passwords for microcontrollers being left in place, or otherwise offering unsecured access to the internet.
 
-Where this goes now is anyone's guess, but decisions made during a period of chaos often tend to not be the most well-thought out. Similarly, most assessments of the future really have to stretch to theorize what the potential courses of action might be, as the possibilities are extremely wide and varied. When stuck in such a situation, it is usually helpful to make decisions based on the tangible evidence that is certain.
-
-In the case of what might happen in the next few days/weeks, it is certain that the United States has surged forces into the Middle East. Diplomats and their families have long been evacuated, and yesterday some districts in Israel opened up their public shelters amid high tensions in the region. The USS Theodore Roosevelt CSG is steaming for the Strait of Malacca, and the two carriers already on station are still cutting waves in the Arabian Sea.
-
-On the diplomatic front, not much is known about whatever talks are taking place with Iran though intermediaries with the United States, but many Gulf states have sent diplomats to Tehran over the past week, probably to secure their own deals with Iran independently of the United States. Many different officials in many Arab nations have been told that the decision has already been made to return to the war, and that it's only a matter of time. Obviously hearsay among politicians is not something easily verifiable, but all Gulf States have been preparing for this possibility for weeks and since a lot of hardware is still heading into the region, military options are very much on the table.
+Nevertheless, suspicions are present that these low-level, more nuisance-driven attacks are indeed being conducted by nationstates as either a warning or as probing efforts to test defenses and find other vulnerabilities. What the truth is will probably never be known for sure, but the end result for most people is the same...delayed flights, data breaches, PII leaks, and more frustrations on the cyber front for the time being.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
