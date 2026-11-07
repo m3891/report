@@ -1,35 +1,29 @@
 The Wire
 ========
 
-//The Wire//1900Z November 5, 2026//
+//The Wire//2300Z November 6, 2026//
 //ROUTINE//
-//BLUF: BOMB THREATS CONTINUE TO PLAGUE COMMERCIAL AVIATION IN EUROPE, NO THREATS DEEMED VIABLE. PRESIDENT OF PARAGUAY RESIGNS AFTER BANKING COLLAPSE THIS MORNING, DUE TO HIS TIES TO BANK'S LEADERSHIP.//
+//BLUF: PERSONNEL SHAKEUPS REPORTED AT WHITE HOUSE AS MIDTERM ELECTION RESULTS PROMPT LEADERSHIP CHANGES. TENSIONS REMAIN IN THE MIDDLE EAST AS WARTIME PLANS STILL ON THE TABLE. WALL STREET INDICATES BEAR MARKET APPROACHING.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Europe: This morning bomb threats onboard commercial aircraft throughout the continent continued. Over a dozen flights were diverted and evacuated due to these threats, which caused mass delays throughout the region. None of the threats were determined to be credible following security checks.
+Europe: Bomb threats onboard commercial aircraft continued overnight, with 14x flights around the region being diverted due to claims of explosives being onboard. All threats were determined to be hoaxes, continuing the trend of this week.
 
-Analyst Comment: This morning's threat-spree is the second such incident this week. Malign actors know that bomb threats are cheap...every claim has to be investigated, wasting time and resources while authorities do their due diligence to clear the threats. Sending in a bunch of threats all at once can heavily affect the global flight schedules for the day, as many flights getting diverted at once amplifies the effect for malign actors.
-
-Paraguay: Overnight, a major banking collapse resulted in pandemonium throughout the nation. Ueno Bank, one of the largest banks in the country, collapsed this morning, leaving customers without access to their funds. A banking run was attempted this morning as customers rushed to pull their money out of ATMs or transfer their funds elsewhere, but most customers report their funds being frozen and unable to withdraw. A total of eight banking executives have been arrested, and many investigations are currently underway. This afternoon President Santiago Peña resigned and stepped down from office, due to his connections and previous business partnership with the owners of the now-collapsed Ueno Bank.
-
-Analyst Comment: The cause of this bank's collapse is fairly standard: bad investments resulted in them simply not having enough money to cover their losses, and their solvency ratio fell below the 50% legal limit. This situation is not unheard of in the third world, however this collapse has the potential to become a wider political issue as Ueno Bank's collapse has already led to the resignation of the President. Similarly, the head of Paraguay's Central Bank, previously was the President of Ueno back in 2023, so this is not the case of a small fly-by-night bank collapsing...this scandal has the potential to tank the Paraguayan economy. More details are expected in due time, as the scandal develops.
+Middle East: Preparations for a continuation of the war remain constant. In the Strait of Hormuz, Iranian targeting of merchant shipping has steadily resulted in one or two ships struck every day for the past few weeks, with two more ships being struck overnight. This afternoon, the Qatari Foreign Minister stated that the US and Iran have failed to come to any sort of agreement as of today, and that little progress has been made in achieving a peaceful settlement at the moment.
 
 -HomeFront-
 
-Iowa: This morning a shooting was reported at a post office in Des Moines, which resulted in multiple casualties. Shortly before lunch today, one gunman began shooting in the vicinity of the front entrance to the post office on Second Avenue, which resulted in the wounding of three people. Nearby police responded immediately, and the shooter was detained.
+Ohio: Yesterday Lockheed Martin agreed to pay $29.5 million to settle a federal lawsuit pertaining to their discrimination of White employees within their employee bonus program. The Equal Employment Opportunity Commission (EEOC) had investigated the company for withholding bonuses and promotions of over 1,000 employees, solely on the basis of race.
 
-Analyst Comment: The details of this shooting are very minimal at the moment. Right now it's not clear as to if this was a deliberate targeting effort, or more of a routine criminal/domestic situation. The shooter's identity and motive have not yet been disclosed.
-
-Washington D.C. - This afternoon Harmeet Dhillon announced her intent to resign her position of DoJ Assistant Attorney General for Civil Rights. AG Blanche confirmed that he accepted her resignation, though her replacement has not yet been announced.
+New York: On Wall Street, indications and warnings suggest exceptional market volatility in the wake of the midterm election results, and the subsequent political shake-up which impacts the financial sector. Yesterday the DOW dropped more than 1,800 points amid a large-scale tech selloff and many economists theorize that the AI bubble may have begun to pop, with the market trending toward correction territory.
 
 -----END TEARLINE-----
 
-Analyst Comment: Around the world, the cyber realm continues to cause headaches following the exposure of major cybersecurity vulnerabilities over the past few weeks, coupled with the intensification of the war in Europe raising incentives on all sides to carry out cyberattacks. So far, most of the incidents reported since this can was peeled open are hard to attribute to one cause or class of malign actor. Most European nations are pointing the finger at Russia for many cyber incidents, which would be fair enough in a broad sense, except for the fact that many of the breaches this week have been due to security practices so poor that a smart child with ChatGPT could do it. Many of the refrigerator hacks have been due to the default passwords for microcontrollers being left in place, or otherwise offering unsecured access to the internet.
+Analyst Comment: In Washington, the fallout from the midterm election bloodbath has continued to develop, and may shape the future of the war in Iran. In short, the knives are out, and many power-players within the White House are attempting to save their jobs and deflect blame for the disastrous election outcomes this week. This afternoon, President Trump relieved Chief of Staff Suzie Wiles, replacing her with Stephen Miller. This marks the highest-profile firing after the midterms, and is a strong indicator of the power struggles that are being worked out inside the White House following the election results.
 
-Nevertheless, suspicions are present that these low-level, more nuisance-driven attacks are indeed being conducted by nationstates as either a warning or as probing efforts to test defenses and find other vulnerabilities. What the truth is will probably never be known for sure, but the end result for most people is the same...delayed flights, data breaches, PII leaks, and more frustrations on the cyber front for the time being.
+The impact of the midterms is going to take some time to unpack on the domestic front, but on the battlefield these very strong indications of personnel changes will likely have an impact on the war over the next two weeks. Generally speaking, a major election loss and subsequent firings/resignations are not stable footing from which to re-launch a military operation, but all of these domestic political factors make it challenging to isolate the potential courses of action regarding the war. President Trump might go for broke and re-launch the war now that he has nothing to lose (and before his leadership team gets razed by Congress), or he may seek to back off and find a more diplomatic route forward, to avoid what American voters have confirmed as being an unpopular war. The next few days will be another period of heightened tension, as more military assets maneuver to the Middle East in preparation for whatever orders come down the pipeline.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
