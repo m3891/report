@@ -1,35 +1,33 @@
 The Wire
 ========
 
-//The Wire//2300Z November 18, 2026//
+//The Wire//2100Z November 19, 2026//
 //ROUTINE//
-//BLUF: TANKER STRUCK IN BLACK SEA AS UKRAINE WAR REMAINS HOT. IRANIAN DRONES TARGET AMERICAN BASES IN KUWAIT AND BAHRAIN. SUSPECT INDICTED IN RELATION TO THE PEORIA IED THREAT FROM A FEW DAYS AGO. CYBERSECURITY ISSUES REMAIN CONSTANT AMID MORE ANOMALIES WITHIN AMERICAN IT SYSTEMS.//
+//BLUF: TRILATERAL TALKS IN CHINA END ON POSITIVE NOTE, QUESTION OF IRAN WAR REMAINS UNANSWERED. CYBER ISSUES CONTINUE IN EUROPE. HOUTHI TARGETING STRIKES FINANCIAL SECTOR IN RIYADH. US ARMY PLANS CONTROLLED DETONATION OF EXPLOSIVES IN IOWA, LEAD CONTAMINATION IS EXPECTED.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Black Sea: Attacks on merchant shipping continued yesterday afternoon with a drone attack targeting the M/T *GAS HUSKY* (IMO: 9507764) off the coast of Bulgaria. All crew were rescued unharmed but the cargo of propane ignited during the strikes, causing a very large fire for some time. At the time of the strike, the vessel was carrying cargo from Egypt to Romania.
+Europe: This morning the European Commission revealed being the victim of a cyberattack back in October. Internal Human Resources networks, payroll data, and employee medical disbursement information was breached, with these systems remaining offline for roughly ten days. This breach was only disclosed last night.
 
-Middle East: Iranian drone strikes were reported overnight, targeting American bases in Kuwait and Bahrain. The success of these strikes was not known, but impacts were noted by locals in Kuwait.
+Saudi Arabia: This morning Houthi attacks continued to strike Riyadh, with several drone impacts being reported throughout the city. The Public Investment Fund (PIF) Tower was struck by a Houthi drone in Riyadh's financial district, and several other smaller buildings were also hit on the outskirts of town. Similar strikes were reported in Jubail, King Khalid airport, and an airbase.
 
-Analyst Comment: There are claims that some American service members were wounded during these strikes, and plane watchers did observe a medevac aircraft departing Germany last night, bound for the Middle East shortly after the strikes. However, there's no way to know if any casualties were sustained. CENTCOM flatly denies any injuries, but they have routinely been caught lying, specifically about wounded service members, so the truth will be hard to determine.
+Analyst Comment: These strikes were rather embarrassing for the Saudis, as the PIF tower is the tallest building in Riyadh and is a major point of prestige for the Kingdom. The continual targeting by Ansar Allah (Houthis) is a persistent problem that multiple Patriot, THAAD, and Hawk missile defense sites don't seem to be capable of defending against.
 
 -HomeFront-
 
-USA: Overnight, cyber incidents continued as before. This morning, a security vulnerability was discovered in Java, which has caused widespread concerns of more cybersecurity vulnerabilities. Oracle released a critical patch update overnight, with IT professionals working to harden their systems against the latest round of vulnerabilities.
-
-Maryland: Last night a large-scale outage of the NSA's internal information sharing network was reported, with the NSANet system going offline for several hours.
-
-Analyst Comment: This system functions as the NSA's intranet, and in terms of real-world use is easiest to describe as the NSA's own private version of the SIPRNET and JWICS, the networks used to share nearly all classified information. The NSA has stated that this outage was the result of a routine software update, however the details don't really add up...software updates don't normally take up half a workday, in the middle of a Tuesday. Whatever the truth is, will probably not be known due to the highly classified nature of this system.
-
-Illinois: Yesterday evening the FBI announced the arrest of one suspect as part of the investigation into the IED attack on the BioUrja Renewables facility in Peoria last Friday. Andrew Kozak, a trainee at the facility, was arrested for threatening to blow up the facility.
+Iowa: The US Army released a public advisory for a controlled detonation of hazardous materials at the Iowa Army Ammunition Plant in Middletown. At noon tomorrow, 68x drums of lead azide that are too hazardous to move will be detonated on site, which is expected to create hazardous conditions for locals up to 100 miles north of the blast site. The dust cloud of lead is expected to contaminate the local area, and locals are advised to stay indoors and turn off air conditioning.
 
 -----END TEARLINE-----
 
-Analyst Comment: At face value, the Peoria incident seems like a fairly routine open-and-shut case. However, this arrest is interesting and there may be more to the story than meets the eye. For one, the charges are currently sealed by a judge, so we don't have any substantial details of the case. Based on press statements and statements by FBI Director Kash Patel, Kozak has not been charged with any terrorism charges, he's only been charged with two counts of making threats. The very carefully worded statements by the FBI avoided directly attributing the incident to Kozak...they never explicitly state that he was the guy that planted the explosive device(s), they only say he was arrested for making threats. This is an incredibly important distinction that is easily missed, but is extremely critical to verify and confirm. Rioters who throw improvised fireworks at federal buildings are frequently hit with Weapons of Mass Destruction charges, and yet this guy, who reportedly built a legitimate IED that caused one of the largest evacuation zones in years, has only been charged with making threats. The critical factor in this case was the discovery of the IED itself. Local, state, and federal agencies adamantly stated that a real and genuine IED was discovered, and possibly several more were found as the search continued throughout the night.
+Analyst Comment: In the Middle East, reports emerged last night indicating the USS *GEORGE WASHINGTON* CSG has departed CENTCOM and is returning to her home port in Japan. Despite the US Navy saying that the Roosevelt would not be replacing the Washington, that appears to have been what's taken place.
 
-Based on the press statements, either this discovery of an IED was a complete fabrication, and this entire saga was just a disgruntled employee sending a threatening email, or the suspect who sent a threatening email is not the same guy that planted a no-joke IED. None of the statements indicate the suspect actually planted an IED, and yet, an IED was found. As a result, following this case closely to ensure that there are no loose ends would be worthwhile, as this had the potential to be one of the largest terror attacks in the modern era, and very few details remain confirmed.
+The rotation of the third carrier back home is an indicator of de-escalation, however there's still more than enough firepower to carry out strikes in Iran once again. As a reminder, there were only two carriers in the Middle East when the war kicked off in the first place (the Ford and the Lincoln), so it's possible that this third carrier is assessed to not be needed, especially now that the Washington is pushing 6 months at sea with very challenging logistical conditions.
+
+This movement might be better described in the context of the geopolitical developments in China. The trilateral meeting between Russia, China, and the United States appears to have gone well, with President Xi stating that the talks were of "groundbreaking significance", leading to hopes that the talks may have been fruitful in clearing the air regarding the global spheres of influence. What has not yet been discussed publicly in any meaningful manner, is the impact the summit had on the war in the Middle East.
+
+Considering that both Russia and China are directly arming and assisting Iran, the impact of these talks on the war will be interesting to see...it may have no impact at all, or it may have been a moment of clarity that leads to an off-ramp. Neither Russia nor China probably want to urge a true end to the war, as they benefit from the US being bogged down to some degree. However the level of international instability is also causing them negative impact, so they probably seek to let the US putter along with no real solution (no hot war, but also no peace). Time will tell how this develops, and even with one carrier going home, we're not out of the woods just yet.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
