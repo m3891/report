@@ -1,33 +1,31 @@
 The Wire
 ========
 
-//The Wire//2100Z November 19, 2026//
+//The Wire//2300Z November 20, 2026//
 //ROUTINE//
-//BLUF: TRILATERAL TALKS IN CHINA END ON POSITIVE NOTE, QUESTION OF IRAN WAR REMAINS UNANSWERED. CYBER ISSUES CONTINUE IN EUROPE. HOUTHI TARGETING STRIKES FINANCIAL SECTOR IN RIYADH. US ARMY PLANS CONTROLLED DETONATION OF EXPLOSIVES IN IOWA, LEAD CONTAMINATION IS EXPECTED.//
+//BLUF: DEPARTMENT OF AGRICULTURE VICTIM OF CYBERATTACK, WHITE HOUSE FIRES CYBERSECURITY ADVISOR. SAUDI ARABIA/YEMEN TRADE MISSILE/DRONE STRIKES OVERNIGHT.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Europe: This morning the European Commission revealed being the victim of a cyberattack back in October. Internal Human Resources networks, payroll data, and employee medical disbursement information was breached, with these systems remaining offline for roughly ten days. This breach was only disclosed last night.
-
-Saudi Arabia: This morning Houthi attacks continued to strike Riyadh, with several drone impacts being reported throughout the city. The Public Investment Fund (PIF) Tower was struck by a Houthi drone in Riyadh's financial district, and several other smaller buildings were also hit on the outskirts of town. Similar strikes were reported in Jubail, King Khalid airport, and an airbase.
-
-Analyst Comment: These strikes were rather embarrassing for the Saudis, as the PIF tower is the tallest building in Riyadh and is a major point of prestige for the Kingdom. The continual targeting by Ansar Allah (Houthis) is a persistent problem that multiple Patriot, THAAD, and Hawk missile defense sites don't seem to be capable of defending against.
+Saudi Arabia: Overnight, Saudi forces conducted strikes at the Yemeni port of Hudaydah, in retaliation for the Houthi strikes on their financial sector yesterday. Immediately following the Saudi retaliation, Ansar Allah (the Houthis) launched a counteroffensive drone/missile attack, and both sides traded missiles throughout the evening.
 
 -HomeFront-
 
-Iowa: The US Army released a public advisory for a controlled detonation of hazardous materials at the Iowa Army Ammunition Plant in Middletown. At noon tomorrow, 68x drums of lead azide that are too hazardous to move will be detonated on site, which is expected to create hazardous conditions for locals up to 100 miles north of the blast site. The dust cloud of lead is expected to contaminate the local area, and locals are advised to stay indoors and turn off air conditioning.
+Washington D.C. - Overnight the Department of Agriculture reported a large-scale cyberattack, which took their systems offline this week. Various USDA websites remained offline for some time, with the main frontend disruptions being reported in the portals used to manage grants and insurance policies. The USDA stated that the cyberattack exploited a vulnerability which resulted in IT departments having to reset all passwords in all server environments, and as a result, further hiccups and disruptions might take place over the next few days.
+
+Separately, National Cybersecurity Director Sean Cairncross was dismissed yesterday afternoon, with his replacement being named as current Pentagon CIO Kirsten Davies. This position is responsible for advising the President on all cybersecurity issues.
+
+Iowa: Today's detonation of lead azide at the Iowa Army Ammunition Plant has been delayed, after public outrage over the blast causing widespread lead contamination. The controlled detonation will now take place on Monday, after more preparations can be undertaken by locals to protect against lead exposure.
+
+Analyst Comment: Staying indoors on blast day is one of the primary means of protecting against lead exposure, but agricultural efforts will still be affected by the detonation; there are a lot of corn fields in the zone expected to be contaminated with lead, which has caused concerns for next years crop as the lead dust will be plowed into the soil during normal farming operations. Schools also remain closed and government agencies recommend children to stay indoors for some time, as the lead dust from the explosive compound is expected to settle over the area.
 
 -----END TEARLINE-----
 
-Analyst Comment: In the Middle East, reports emerged last night indicating the USS *GEORGE WASHINGTON* CSG has departed CENTCOM and is returning to her home port in Japan. Despite the US Navy saying that the Roosevelt would not be replacing the Washington, that appears to have been what's taken place.
+Analyst Comment: Despite the frequent and adamant assertions to the contrary, enough evidence has stacked up to indicate that some form of cyber war is being waged in the shadows. Discerning the genuine cyberattacks from regular IT outages is challenging now that a lot of people are paying attention, and the mere increased focus is likely to make the recent cyber incidents seem more substantial than they are. Nevertheless, every day brings a new government agency, large corporation, or critical infrastructure that's targeted, most of which are nuisance-grade attacks, or routine criminal behavior. JP Morgan finally admitted last night that the "incidents" they experienced last weekend were actually the result of cyberattacks, which contradicts statements by officials on these outages.
 
-The rotation of the third carrier back home is an indicator of de-escalation, however there's still more than enough firepower to carry out strikes in Iran once again. As a reminder, there were only two carriers in the Middle East when the war kicked off in the first place (the Ford and the Lincoln), so it's possible that this third carrier is assessed to not be needed, especially now that the Washington is pushing 6 months at sea with very challenging logistical conditions.
-
-This movement might be better described in the context of the geopolitical developments in China. The trilateral meeting between Russia, China, and the United States appears to have gone well, with President Xi stating that the talks were of "groundbreaking significance", leading to hopes that the talks may have been fruitful in clearing the air regarding the global spheres of influence. What has not yet been discussed publicly in any meaningful manner, is the impact the summit had on the war in the Middle East.
-
-Considering that both Russia and China are directly arming and assisting Iran, the impact of these talks on the war will be interesting to see...it may have no impact at all, or it may have been a moment of clarity that leads to an off-ramp. Neither Russia nor China probably want to urge a true end to the war, as they benefit from the US being bogged down to some degree. However the level of international instability is also causing them negative impact, so they probably seek to let the US putter along with no real solution (no hot war, but also no peace). Time will tell how this develops, and even with one carrier going home, we're not out of the woods just yet.
+Projecting out future threats, moving into the holiday travel season, malign actors are likely to carry out cyberattacks during the week of Thanksgiving, in an attempt to capitalize on the chaos. It would not be surprising in the slightest for malign actors to carry out cyberattacks on airline ticketing networks, travel reservation websites, payment services, or critical servers for random websites, right when the frustration will be at it's maximum effectiveness. As a result, flexibility during the holiday travel season is recommended.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
