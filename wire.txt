@@ -1,31 +1,31 @@
 The Wire
 ========
 
-//The Wire//1500Z November 26, 2026//
+//The Wire//1700Z November 27, 2026//
 //ROUTINE//
-//BLUF: DISRUPTIONS REPORTED AT LAGUARDIA FOLLOWING MANPAD ALERT, REPORT LATER DEEMED NOT A CREDIBLE THREAT. CYBERATTACKS CONTINUE AROUND THE UNITED STATES. BRITISH GOVERNMENT URGES VETERANS TO REENLIST AND PREPARE FOR WAR.//
+//BLUF: CYBER ISSUES REMAIN CONSTANT AS BANKING AND PENSION SERVICES IMPACTED IN THE UNITED KINGDOM. US AIR FORCE DATA SYSTEM BREACHED IN CYBERATTACK. GERMAN SOFTWARE COMPANY BREACHED BY MALIGN ACTORS. IRANIAN TARGETING CONTINUES IN KUWAIT AND BAHRAIN, WITH STRIKES BECOMING REGULAR THIS WEEK.//
 
  -----BEGIN TEARLINE-----
 
 -International Events-
 
-Europe: Wartime readiness plans and NATO exercises remain constant throughout the region. In the United Kingdom, roughly 100,000 reservists and former service members were sent letters by the British government this week, urging them to either reenlist or prepare for the U.K. to be involved in a conflict. In Poland, the deployment of roughly 15,000 troops to their border with Belarus and Ukraine is expected to take place over the coming weeks, as Poland seeks to bolster defenses in the region due to Russian missile attacks. Poland is also enacting a no-fly-zone along their border with Lithuania, due to the intensification of drone incursions along the Suwalki Gap.
+Germany: Overnight a cyberattack breached the SAP corporation, which resulted in some of their code being compromised. The enterprise software giant confirmed that malign actors had gained access to their GitHub, and pushed malicious code which resulted in unknown impact. SAP has stated that none of the malicious code made it into the software they provide to customers, however the investigation is ongoing.
+
+United Kingdom: This morning a cyberattack resulted in government pension services going down for many citizens. The Department for Work and Pensions confirmed that their payment systems were compromised by malign actors, but payments to pensioners and welfare recipients were not affected. Benefit recipients could not access their accounts or access the administrative side of programs during the outage.
+
+Separately, customers of the Lloyd's banking group and their subsidiary Bank of Scotland reported issues accessing their banking data this morning, with many customers stating that they could not make payments, whereas other customers reported no issues. No further information was provided regarding this outage at the time of this report.
 
 -HomeFront-
 
-USA: Cyberattacks and data breaches continue as before. Overnight 1Password, the password management software company reported a data breach which resulted in the leak of customer email addresses and payment details. 1Password states that no customer's passwords were breached, however malign actors gained access to an employee's corporate GitHub account, which allowed for the injection of malicious code into their systems.
+Maryland: USCYBERCOM is investigating a breach of the U.S. Air Force software suite Cloud One, the cloud computing ecosystem used to manage a variety of IT systems. The scope and nature of the breach has not been disclosed, and officials have only stated that the breach was discovered during routine maintenance operations last month.
 
-American South: Severe weather systems swept through the region early Thanksgiving morning, with many states reporting large-scale power outages due to heavy rains and high winds. North Carolina and Virginia have reported over 130,000 residents without power, and Missouri has also reported over 70,000 residents without power.
-
-New York: Last night Air Traffic Control operators at LaGuardia Airport issued a MANPAD alert for aircraft in the vicinity of the airport. The warning was issued after ATC was notified of a potential Man-Portable Air Defense (MANPAD) system that was possibly located to the east of the airport. After some time, the report was deemed to be not credible, and operations resumed as normal after a brief period of confusion among pilots in the sector. No further information was provided on what caused the initial report, or why the threat warning was issued.
+Analyst Comment: This breach is a big deal as Cloud One is a foundational system that supports both classified and unclassified systems. It's the bedrock of Air Force data and IT management needs which supports everything from payroll software, to classified targeting data and the radar systems used by NORAD to defend North America's airspace.
 
 -----END TEARLINE-----
 
-Analyst Comment: While the MANPAD threat in New York was quickly deemed to be not credible, this is the second time this type of incident has been noted at this airport. A nearly identical threat report was issued at LaGuardia back in July, and that initial incident was quickly forgotten as no additional information was provided by officials regarding what that first case was all about.
+Analyst Comment: In the Middle East, things are slowly heating up once again. Houthi strikes continue to devastate Saudi oil infrastructure regularly, to the point that global markets don't even react anymore, despite major refineries shutting down due to the strikes. Iranian forces continue their daily targeting of commercial ships in the Strait of Hormuz, and the Omani coastline has become a graveyard of stricken ships undergoing repairs after being hit while trying to make the crossing. The American military posture remains steady throughout the region, though the effects of the midterm elections on wartime ideations seem to have stifled the potential for escalation, at least for the moment.
 
-One of the largest unknowns is exactly what the plan is for this scenario, or what the criteria for "MANPAD alert" actually is. There are no feasible ways to detect a shoulder-fired missile launcher via electronic surveillance means, so whatever this response plan is, it's probably built around Human Intelligence (HUMINT), or a phoned in threat.
-
-ATC operators clearly have a procedure for an aircraft potentially being targeted by Surface-to-Air missiles, however it might be a good idea to convey that procedure to pilots. As it stands, commercial airline pilots have literally no recourse or countermeasure for this situation, so ATC casually telling pilots they may be shot down...but also not closing the airspace or issuing a ground stop...is rather suboptimal. This has happened twice now, and pilots were just as surprised and confused as the first time, and did not really know how to process what they were supposed to do. The ATC operators themselves were probably just as confused, having been alerted to the threat by outside agencies. As a result, it would be wise for some form of guidance to be issued by the FAA regarding what to do in these situations, especially if the threat of shootdowns within the homeland is now a threat profile that is being seriously considered by counterterrorism agencies.
+Iranian strikes have continued to not just target merchant shipping, but also land-based installations as well. Kuwait and Bahrain have been struck several times over the past week by Iranian missiles and drones, with strikes now regularly taking place throughout Kuwait City. Last night two Italian contractors were killed in Kuwait after the drone countermeasure system they were working on was struck by a drone. Notably, while Iran claims credit for the other strikes in Kuwait City, they explicitly deny the strike that killed the two Italians, with IRGC leadership claiming that this strike was a false-flag operation. This could be a lie intended to reduce tensions after Iran mistakenly killed citizens of a third-party nation, or it could be a false flag operation as they claim. Iran has not shied away from claiming credit for strikes in the past, but information shaping operations are a constant of the war, and the truth is always hard to verify. Either way, missiles and drone strikes are now a regular nightly feature around the region, and right now no diplomatic solutions are anywhere near being on the table for the time being.
 
 Analyst: S2A1
 Research: https://publish.obsidian.md/s2underground
